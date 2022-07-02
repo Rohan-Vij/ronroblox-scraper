@@ -29,7 +29,12 @@ class FormableScraper:
         list_elements = soup.find_all(
             "li", class_="category-page__member")
 
+
+        # Indexes [101:103] for Aksum and Armenia (existing and planned)
+
+
         for element in list_elements:
+
             link = element.find("a", href=True)
             href = link['href']
             title = link['title']
@@ -66,8 +71,15 @@ class FormableScraper:
 
             text_links = list(set(all_links).difference(images))
 
+            planned = formable_soup.find("p", {"style": "color:#80ff80;"})
+
             self.formables_information[link[1]][tag.replace(" ", "_")] = [
                 link.string for link in text_links]
+
+            if not planned:
+                self.formables_information[link[1]]["status"] = "exists"
+            else:
+                self.formables_information[link[1]]["status"] = "planned"
 
         return self.formables_information
 
