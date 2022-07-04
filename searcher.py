@@ -36,6 +36,7 @@ class FormablesSearcher:
             return res
         if direction == "greatest":
             return list(reversed(res))
+        return res
 
     def write_to_file(self, filename, lst):
         """
