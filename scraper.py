@@ -23,25 +23,27 @@ class FormableScraper:
         Get a list of formables and their wiki urls.
         """
 
-        page = requests.get(self.url + "/wiki/Category:Formables")
+        page = requests.get(self.url + "/wiki/Formable")
         soup = BeautifulSoup(page.content, "html.parser")
 
-        list_elements = soup.find_all(
-            "li", class_="category-page__member")
+        table = soup.find_all("table")[0]
 
+        list_elements = table.find_all(
+            "tr")
 
-        # Indexes [101:103] for Aksum and Armenia (existing and planned)
+        for row in list_elements:
+            try:
+                link = row.find_all("td")[0].find_all("a")[-1]
+            except IndexError:
+                continue
 
-
-        for element in list_elements:
-
-            link = element.find("a", href=True)
             href = link['href']
             title = link['title']
 
-            if "formable" not in title.lower():
-                self.formables_information[title] = {"URL": self.url + href}
-                self.link_information.append((href, title))
+
+
+            self.formables_information[title] = {"URL": self.url + href}
+            self.link_information.append((href, title))
 
         return self.link_information
 
@@ -71,15 +73,8 @@ class FormableScraper:
 
             text_links = list(set(all_links).difference(images))
 
-            planned = formable_soup.find("p", {"style": "color:#80ff80;"})
-
             self.formables_information[link[1]][tag.replace(" ", "_")] = [
                 link.string for link in text_links]
-
-            if not planned:
-                self.formables_information[link[1]]["status"] = "exists"
-            else:
-                self.formables_information[link[1]]["status"] = "planned"
 
         return self.formables_information
 
