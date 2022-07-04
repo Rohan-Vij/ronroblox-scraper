@@ -40,8 +40,6 @@ class FormableScraper:
             href = link['href']
             title = link['title']
 
-
-
             self.formables_information[title] = {"URL": self.url + href}
             self.link_information.append((href, title))
 

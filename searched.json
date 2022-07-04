@@ -2,15 +2,14 @@
     "Czechoslovakia": {
         "URL": "https://ronroblox.fandom.com/wiki/Czechoslovakia",
         "required": [
-            "Czech Republic",
-            "Slovakia"
+            "Slovakia",
+            "Czech Republic"
         ],
         "start_nation": [
-            "Czech Republic",
-            "Slovakia"
+            "Slovakia",
+            "Czech Republic"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Durrani Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Durrani_Empire",
@@ -21,20 +20,18 @@
         "start_nation": [
             "Afghanistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Empire of Brazil": {
         "URL": "https://ronroblox.fandom.com/wiki/Empire_of_Brazil",
         "required": [
-            "Brazil",
-            "Uruguay"
+            "Uruguay",
+            "Brazil"
         ],
         "start_nation": [
             "Brazil"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Empire of Haiti": {
         "URL": "https://ronroblox.fandom.com/wiki/Empire_of_Haiti",
@@ -45,19 +42,17 @@
         "start_nation": [
             "Haiti"
         ],
-        "status": "exists",
         "completed": false
     },
     "Fang Federation": {
         "URL": "https://ronroblox.fandom.com/wiki/Fang_Federation",
         "required": [
-            "Equatorial Guinea",
-            "Gabon"
+            "Gabon",
+            "Equatorial Guinea"
         ],
         "start_nation": [
             "Equatorial Guinea"
         ],
-        "status": "exists",
         "completed": false
     },
     "Finnic Union": {
@@ -70,8 +65,7 @@
             "Finland",
             "Estonia"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Franco-British Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Franco-British_Union",
@@ -83,7 +77,6 @@
             "France",
             "United Kingdom"
         ],
-        "status": "exists",
         "completed": false
     },
     "Gaza Empire": {
@@ -95,20 +88,6 @@
         "start_nation": [
             "Mozambique"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Guin\u00e9 e Cabo Verde": {
-        "URL": "https://ronroblox.fandom.com/wiki/Guin%C3%A9_e_Cabo_Verde",
-        "required": [
-            "Guinea-Bissau",
-            "Cabo Verde"
-        ],
-        "start_nation": [
-            "Guinea-Bissau",
-            "Cabo Verde"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Hotak Dynasty": {
@@ -120,44 +99,18 @@
         "start_nation": [
             "Afghanistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Iberian Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Iberian_Union",
         "required": [
-            "Portugal",
-            "Spain"
+            "Spain",
+            "Portugal"
         ],
         "start_nation": [
-            "Portugal",
-            "Spain"
+            "Spain",
+            "Portugal"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Inuk State": {
-        "URL": "https://ronroblox.fandom.com/wiki/Inuk_State",
-        "required": [
-            "Canada",
-            "Greenland"
-        ],
-        "start_nation": [
-            "Greenland"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Kazembe": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kazembe",
-        "required": [
-            "Democratic Republic of the Congo",
-            "Zambia"
-        ],
-        "start_nation": [
-            "Zambia"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Kingdom of Croatia": {
@@ -169,8 +122,7 @@
         "start_nation": [
             "Croatia"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Kingdom of Dahomey": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Dahomey",
@@ -181,7 +133,6 @@
         "start_nation": [
             "Benin"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Lombards": {
@@ -193,117 +144,51 @@
         "start_nation": [
             "San Marino"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Kingdom of Samoa": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Samoa",
-        "required": [
-            "Samoa",
-            "American Samoa"
-        ],
-        "start_nation": [
-            "Samoa"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Kingdom of Singapura": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Singapura",
-        "required": [
-            "Malaysia",
-            "Singapore"
-        ],
-        "start_nation": [
-            "Singapore"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Kingdom of the Isles": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_the_Isles",
         "required": [
-            "Isle of Man",
-            "United Kingdom"
+            "United Kingdom",
+            "Isle of Man"
         ],
         "start_nation": [
             "Isle of Man"
         ],
-        "status": "exists",
         "completed": false
     },
     "Korea": {
         "URL": "https://ronroblox.fandom.com/wiki/Korea",
         "required": [
-            "South Korea",
-            "North Korea"
+            "North Korea",
+            "South Korea"
         ],
         "start_nation": [
-            "South Korea",
-            "North Korea"
+            "North Korea",
+            "South Korea"
         ],
-        "status": "exists",
         "completed": false
     },
     "Lan Xang": {
         "URL": "https://ronroblox.fandom.com/wiki/Lan_Xang",
         "required": [
-            "Laos",
-            "Thailand"
+            "Thailand",
+            "Laos"
         ],
         "start_nation": [
             "Laos"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Liga Federal": {
-        "URL": "https://ronroblox.fandom.com/wiki/Liga_Federal",
-        "required": [
-            "Argentina",
-            "Uruguay"
-        ],
-        "start_nation": [
-            "Uruguay"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Lucayan Federation": {
-        "URL": "https://ronroblox.fandom.com/wiki/Lucayan_Federation",
-        "required": [
-            "Bahamas",
-            "Turks and Caicos Islands"
-        ],
-        "start_nation": [
-            "Bahamas",
-            "Turks and Caicos Islands"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Maravi Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Maravi_Empire",
         "required": [
-            "Mozambique",
-            "Malawi"
+            "Malawi",
+            "Mozambique"
         ],
         "start_nation": [
             "Malawi"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Mopan": {
-        "URL": "https://ronroblox.fandom.com/wiki/Mopan",
-        "required": [
-            "Belize",
-            "Guatemala"
-        ],
-        "start_nation": [
-            "Belize"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Patagonia": {
@@ -316,19 +201,17 @@
             "Argentina",
             "Chile"
         ],
-        "status": "exists",
         "completed": false
     },
     "Pepper Coast": {
         "URL": "https://ronroblox.fandom.com/wiki/Pepper_Coast",
         "required": [
-            "Cote d'Ivoire",
-            "Liberia"
+            "Liberia",
+            "Cote d'Ivoire"
         ],
         "start_nation": [
             "Liberia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Peru-Bolivian Confederation": {
@@ -341,7 +224,6 @@
             "Bolivia",
             "Peru"
         ],
-        "status": "exists",
         "completed": false
     },
     "Pirate Republic": {
@@ -353,8 +235,7 @@
         "start_nation": [
             "Bahamas"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Princedom of Duklja": {
         "URL": "https://ronroblox.fandom.com/wiki/Princedom_of_Duklja",
@@ -365,7 +246,6 @@
         "start_nation": [
             "Montenegro"
         ],
-        "status": "exists",
         "completed": false
     },
     "Principality of Moldavia": {
@@ -377,41 +257,37 @@
         "start_nation": [
             "Moldova"
         ],
-        "status": "exists",
         "completed": false
     },
-    "Republic of the Mascarenes": {
-        "URL": "https://ronroblox.fandom.com/wiki/Republic_of_the_Mascarenes",
+    "Siam": {
+        "URL": "https://ronroblox.fandom.com/wiki/Siam",
         "required": [
-            "Reunion",
-            "Mauritius"
+            "Thailand",
+            "Laos"
         ],
         "start_nation": [
-            "Reunion",
-            "Mauritius"
+            "Thailand"
         ],
-        "status": "planned",
         "completed": false
     },
-    "Senegambia Confederation": {
-        "URL": "https://ronroblox.fandom.com/wiki/Senegambia_Confederation",
+    "Zaire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Zaire",
         "required": [
-            "Senegal",
-            "Gambia"
+            "Republic of Congo",
+            "Democratic Republic of the Congo"
         ],
         "start_nation": [
-            "Senegal",
-            "Gambia"
+            "Republic of Congo",
+            "Democratic Republic of the Congo"
         ],
-        "status": "planned",
         "completed": false
     },
     "Alpine Republic": {
         "URL": "https://ronroblox.fandom.com/wiki/Alpine_Republic",
         "required": [
-            "Austria",
+            "Switzerland",
             "Liechtenstein",
-            "Switzerland"
+            "Austria"
         ],
         "start_nation": [
             "Switzerland"
@@ -422,41 +298,25 @@
     "Angevin Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Angevin_Empire",
         "required": [
-            "Ireland",
+            "United Kingdom",
             "France",
-            "United Kingdom"
+            "Ireland"
         ],
         "start_nation": [
             "United Kingdom"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Antillean Confederation": {
-        "URL": "https://ronroblox.fandom.com/wiki/Antillean_Confederation",
-        "required": [
-            "Cuba",
-            "Puerto Rico",
-            "Dominican Republic"
-        ],
-        "start_nation": [
-            "Cuba",
-            "Dominican Republic"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Ashanti Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Ashanti_Empire",
         "required": [
-            "Cote d'Ivoire",
             "Ghana",
-            "Togo"
+            "Togo",
+            "Cote d'Ivoire"
         ],
         "start_nation": [
             "Ghana"
         ],
-        "status": "exists",
         "completed": false
     },
     "Benelux": {
@@ -471,46 +331,18 @@
             "Belgium",
             "Luxembourg"
         ],
-        "status": "exists",
         "completed": false
     },
     "Bruneian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Bruneian_Empire",
         "required": [
-            "Malaysia",
+            "Brunei",
             "Philippines",
-            "Brunei"
+            "Malaysia"
         ],
         "start_nation": [
             "Brunei"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Duchy of Bavaria": {
-        "URL": "https://ronroblox.fandom.com/wiki/Duchy_of_Bavaria",
-        "required": [
-            "Bavaria",
-            "Austria",
-            "Slovenia"
-        ],
-        "start_nation": [
-            "Bavaria"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Emirate of Bukhara": {
-        "URL": "https://ronroblox.fandom.com/wiki/Emirate_of_Bukhara",
-        "required": [
-            "Turkmenistan",
-            "Uzbekistan",
-            "Tajikistan"
-        ],
-        "start_nation": [
-            "Uzbekistan"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Eweland": {
@@ -523,44 +355,17 @@
         "start_nation": [
             "Togo"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "German Reich": {
-        "URL": "https://ronroblox.fandom.com/wiki/German_Reich",
-        "required": [
-            "Czech Republic",
-            "Austria",
-            "Germany"
-        ],
-        "start_nation": [
-            "Germany"
-        ],
-        "status": "exists",
         "completed": false
     },
     "Goguryeo": {
         "URL": "https://ronroblox.fandom.com/wiki/Goguryeo",
         "required": [
+            "North Korea",
             "Manchuria",
-            "South Korea",
-            "North Korea"
+            "South Korea"
         ],
         "start_nation": [
             "North Korea"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Grand Duchy of Lithuania": {
-        "URL": "https://ronroblox.fandom.com/wiki/Grand_Duchy_of_Lithuania",
-        "required": [
-            "Belarus",
-            "Ukraine",
-            "Lithuania"
-        ],
-        "start_nation": [
-            "Lithuania"
         ],
         "status": "planned",
         "completed": false
@@ -568,142 +373,108 @@
     "Guiana Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Guiana_Union",
         "required": [
-            "French Guiana",
+            "Guyana",
             "Suriname",
-            "Guyana"
+            "French Guiana"
         ],
         "start_nation": [
-            "French Guiana",
+            "Guyana",
             "Suriname",
-            "Guyana"
+            "French Guiana"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kaabu Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Kaabu_Empire",
         "required": [
-            "Senegal",
+            "Guinea",
             "Guinea-Bissau",
-            "Guinea"
+            "Senegal"
         ],
         "start_nation": [
             "Guinea"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Kanem Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kanem_Empire",
-        "required": [
-            "Chad",
-            "Nigeria",
-            "Cameroon"
-        ],
-        "start_nation": [
-            "Chad"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Khmer Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Khmer_Empire",
         "required": [
-            "Laos",
             "Cambodia",
-            "Thailand"
+            "Thailand",
+            "Laos"
         ],
         "start_nation": [
             "Cambodia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Khoisan": {
         "URL": "https://ronroblox.fandom.com/wiki/Khoisan",
         "required": [
-            "South Africa",
             "Botswana",
-            "Namibia"
+            "Namibia",
+            "South Africa"
         ],
         "start_nation": [
             "Botswana",
             "Namibia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kievan Rus": {
         "URL": "https://ronroblox.fandom.com/wiki/Kievan_Rus",
         "required": [
-            "Belarus",
+            "Moldova",
             "Ukraine",
-            "Moldova"
+            "Belarus"
         ],
         "start_nation": [
             "Ukraine"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Bohemia": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Bohemia",
         "required": [
+            "Slovenia",
             "Czech Republic",
-            "Austria",
-            "Slovenia"
+            "Austria"
         ],
         "start_nation": [
             "Czech Republic"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Kingdom of Burundi": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Burundi",
-        "required": [
-            "Tanzania",
-            "Rwanda",
-            "Burundi"
-        ],
-        "start_nation": [
-            "Burundi"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Kingdom of Kandy": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Kandy",
         "required": [
+            "Sri Lanka",
             "Maldives",
-            "Malaysia",
-            "Sri Lanka"
+            "Malaysia"
         ],
         "start_nation": [
             "Sri Lanka"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Luanda": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Luanda",
         "required": [
-            "Democratic Republic of the Congo",
             "Angola",
+            "Democratic Republic of the Congo",
             "Zambia"
         ],
         "start_nation": [
             "Angola"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Mutapa": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Mutapa",
         "required": [
-            "Zimbabwe",
             "Mozambique",
-            "Zambia"
+            "Zambia",
+            "Zimbabwe"
         ],
         "start_nation": [
             "Zimbabwe"
@@ -711,146 +482,76 @@
         "status": "planned",
         "completed": false
     },
-    "Kingdom of Scotland": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Scotland",
-        "required": [
-            "Panama",
-            "Isle of Man",
-            "Scotland"
-        ],
-        "start_nation": [
-            "Scotland"
-        ],
-        "status": "planned",
-        "completed": false
-    },
     "Kingdom of Thrace": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Thrace",
         "required": [
-            "Macedonia",
             "Bulgaria",
+            "Macedonia",
             "Greece"
         ],
         "start_nation": [
             "Bulgaria"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Kingdom of the Israelites": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_the_Israelites",
-        "required": [
-            "Lebanon",
-            "Jordan",
-            "Israel"
-        ],
-        "start_nation": [
-            "Israel"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Malacca Sultanate": {
-        "URL": "https://ronroblox.fandom.com/wiki/Malacca_Sultanate",
-        "required": [
-            "Malaysia",
-            "Indonesia",
-            "Singapore"
-        ],
-        "start_nation": [
-            "Malaysia"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Maphilindo Confederation": {
         "URL": "https://ronroblox.fandom.com/wiki/Maphilindo_Confederation",
         "required": [
-            "Malaysia",
             "Indonesia",
-            "Philippines"
+            "Philippines",
+            "Malaysia"
         ],
         "start_nation": [
-            "Malaysia",
-            "Philippines"
+            "Philippines",
+            "Malaysia"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Nabataean Kingdom": {
-        "URL": "https://ronroblox.fandom.com/wiki/Nabataean_Kingdom",
-        "required": [
-            "Saudi Arabia",
-            "Jordan",
-            "Israel"
-        ],
-        "start_nation": [
-            "Jordan"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Nguyen Dynasty": {
         "URL": "https://ronroblox.fandom.com/wiki/Nguyen_Dynasty",
         "required": [
-            "Laos",
             "Cambodia",
+            "Laos",
             "Vietnam"
         ],
         "start_nation": [
             "Vietnam"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "North American Union": {
         "URL": "https://ronroblox.fandom.com/wiki/North_American_Union",
         "required": [
+            "Mexico",
             "Canada",
-            "United States",
-            "Mexico"
+            "United States"
         ],
         "start_nation": [
+            "Mexico",
             "Canada",
-            "United States",
-            "Mexico"
+            "United States"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Prydain": {
-        "URL": "https://ronroblox.fandom.com/wiki/Prydain",
-        "required": [
-            "Brittany",
-            "Isle of Man",
-            "United Kingdom"
-        ],
-        "start_nation": [
-            "Wales"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Qing Dynasty": {
         "URL": "https://ronroblox.fandom.com/wiki/Qing_Dynasty",
         "required": [
-            "China",
             "Taiwan",
-            "Mongolia"
+            "Mongolia",
+            "China"
         ],
         "start_nation": [
             "Manchuria",
             "China"
         ],
-        "status": "exists",
         "completed": false
     },
     "Republic of China": {
         "URL": "https://ronroblox.fandom.com/wiki/Republic_of_China",
         "required": [
             "China",
-            "China",
-            "Taiwan"
+            "Taiwan",
+            "China"
         ],
         "start_nation": [
             "Taiwan"
@@ -861,99 +562,196 @@
     "Ruthenia": {
         "URL": "https://ronroblox.fandom.com/wiki/Ruthenia",
         "required": [
-            "Belarus",
+            "Poland",
             "Ukraine",
-            "Poland"
+            "Belarus"
         ],
         "start_nation": [
             "Belarus"
         ],
-        "status": "exists",
+        "completed": false
+    },
+    "Sokoto Caliphate": {
+        "URL": "https://ronroblox.fandom.com/wiki/Sokoto_Caliphate",
+        "required": [
+            "Cameroon",
+            "Chad",
+            "Nigeria"
+        ],
+        "start_nation": [
+            "Nigeria"
+        ],
+        "completed": false
+    },
+    "Songhai Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Songhai_Empire",
+        "required": [
+            "Burkina Faso",
+            "Niger",
+            "Mali"
+        ],
+        "start_nation": [
+            "Mali"
+        ],
+        "completed": false
+    },
+    "Sultanate of Ifat": {
+        "URL": "https://ronroblox.fandom.com/wiki/Sultanate_of_Ifat",
+        "required": [
+            "Djibouti",
+            "Eritrea",
+            "Ethiopia"
+        ],
+        "start_nation": [
+            "Djibouti"
+        ],
+        "completed": false
+    },
+    "Sumerian Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Sumerian_Empire",
+        "required": [
+            "Iraq",
+            "Syria",
+            "Kuwait"
+        ],
+        "start_nation": [
+            "Kuwait"
+        ],
+        "completed": false
+    },
+    "Toungoo Dynasty": {
+        "URL": "https://ronroblox.fandom.com/wiki/Toungoo_Dynasty",
+        "required": [
+            "Burma",
+            "Thailand",
+            "Laos"
+        ],
+        "start_nation": [
+            "Burma"
+        ],
+        "completed": false
+    },
+    "Transcaucasia": {
+        "URL": "https://ronroblox.fandom.com/wiki/Transcaucasia",
+        "required": [
+            "Georgia",
+            "Azerbaijan",
+            "Armenia"
+        ],
+        "start_nation": [
+            "Georgia",
+            "Azerbaijan",
+            "Armenia"
+        ],
+        "completed": false
+    },
+    "Trucial State": {
+        "URL": "https://ronroblox.fandom.com/wiki/Trucial_State",
+        "required": [
+            "United Arab Emirates",
+            "Qatar",
+            "Bahrain"
+        ],
+        "start_nation": [
+            "United Arab Emirates",
+            "Qatar",
+            "Bahrain"
+        ],
+        "completed": false
+    },
+    "United Baltic Federation": {
+        "URL": "https://ronroblox.fandom.com/wiki/United_Baltic_Federation",
+        "required": [
+            "Latvia",
+            "Lithuania",
+            "Estonia"
+        ],
+        "start_nation": [
+            "Latvia",
+            "Lithuania",
+            "Estonia"
+        ],
+        "completed": false
+    },
+    "Wadai Sultanate": {
+        "URL": "https://ronroblox.fandom.com/wiki/Wadai_Sultanate",
+        "required": [
+            "Sudan",
+            "Central African Republic",
+            "Chad"
+        ],
+        "start_nation": [
+            "Central African Republic",
+            "Chad"
+        ],
+        "completed": false
+    },
+    "Zapadoslavia": {
+        "URL": "https://ronroblox.fandom.com/wiki/Zapadoslavia",
+        "required": [
+            "Slovakia",
+            "Czech Republic",
+            "Poland"
+        ],
+        "start_nation": [
+            "Slovakia",
+            "Czech Republic",
+            "Poland"
+        ],
         "completed": false
     },
     "Ajuran Sultanate": {
         "URL": "https://ronroblox.fandom.com/wiki/Ajuran_Sultanate",
         "required": [
             "Djibouti",
-            "Ethiopia",
             "Kenya",
+            "Ethiopia",
             "Somalia"
         ],
         "start_nation": [
             "Somalia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Bani Utbah": {
         "URL": "https://ronroblox.fandom.com/wiki/Bani_Utbah",
         "required": [
             "Bahrain",
-            "Saudi Arabia",
+            "Kuwait",
             "Qatar",
-            "Kuwait"
+            "Saudi Arabia"
         ],
         "start_nation": [
             "Qatar",
-            "Kuwait",
-            "Bahrain"
+            "Bahrain",
+            "Kuwait"
         ],
-        "status": "exists",
         "completed": false
     },
     "Belgian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Belgian_Empire",
         "required": [
-            "Democratic Republic of the Congo",
             "Rwanda",
-            "Belgium",
-            "Burundi"
+            "Burundi",
+            "Democratic Republic of the Congo",
+            "Belgium"
         ],
         "start_nation": [
             "Belgium"
         ],
-        "status": "exists",
         "completed": false
     },
     "Courland-Livonia": {
         "URL": "https://ronroblox.fandom.com/wiki/Courland-Livonia",
         "required": [
-            "Estonia",
             "Gambia",
+            "Estonia",
             "Latvia",
             "Trinidad and Tobago"
         ],
         "start_nation": [
-            "Estonia",
-            "Latvia"
-        ],
-        "status": "planned",
-        "completed": true
-    },
-    "Dilmun": {
-        "URL": "https://ronroblox.fandom.com/wiki/Dilmun",
-        "required": [
-            "Bahrain",
-            "Saudi Arabia",
-            "Qatar",
-            "Kuwait"
-        ],
-        "start_nation": [
-            "Bahrain"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Eldiguzids": {
-        "URL": "https://ronroblox.fandom.com/wiki/Eldiguzids",
-        "required": [
-            "Azerbaijan",
-            "Iran",
-            "Iraq",
-            "Armenia"
-        ],
-        "start_nation": [
-            "Azerbaijan"
+            "Latvia",
+            "Estonia"
         ],
         "status": "planned",
         "completed": false
@@ -961,29 +759,27 @@
     "Empire of Gabon": {
         "URL": "https://ronroblox.fandom.com/wiki/Empire_of_Gabon",
         "required": [
-            "Gabon",
-            "Equatorial Guinea",
+            "Cameroon",
             "Sao Tome and Principe",
-            "Cameroon"
+            "Gabon",
+            "Equatorial Guinea"
         ],
         "start_nation": [
             "Gabon"
         ],
-        "status": "exists",
         "completed": false
     },
     "Ethiopian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Ethiopian_Empire",
         "required": [
             "Djibouti",
-            "Ethiopia",
             "Eritrea",
+            "Ethiopia",
             "Somalia"
         ],
         "start_nation": [
             "Ethiopia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Ga'na Empire": {
@@ -997,166 +793,154 @@
         "start_nation": [
             "Mauritania"
         ],
-        "status": "exists",
         "completed": false
     },
     "Gbaya Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Gbaya_Empire",
         "required": [
-            "Democratic Republic of the Congo",
-            "Central African Republic",
+            "Cameroon",
             "Republic of Congo",
-            "Cameroon"
+            "Central African Republic",
+            "Democratic Republic of the Congo"
         ],
         "start_nation": [
             "Central African Republic"
         ],
-        "status": "exists",
         "completed": false
     },
     "Gran Colombia": {
         "URL": "https://ronroblox.fandom.com/wiki/Gran_Colombia",
         "required": [
-            "Ecuador",
             "Colombia",
             "Venezuela",
+            "Ecuador",
             "Panama"
         ],
         "start_nation": [
             "Colombia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Hittite": {
         "URL": "https://ronroblox.fandom.com/wiki/Hittite",
         "required": [
+            "Turkey",
             "Lebanon",
             "Syria",
-            "Turkey",
             "Cyprus"
         ],
         "start_nation": [
+            "Turkey",
             "Lebanon",
             "Syria",
-            "Turkey",
             "Cyprus"
         ],
-        "status": "exists",
         "completed": false
     },
     "Inca Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Inca_Empire",
         "required": [
-            "Chile",
-            "Ecuador",
             "Bolivia",
-            "Peru"
+            "Peru",
+            "Ecuador",
+            "Chile"
         ],
         "start_nation": [
             "Peru"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Aksum": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Aksum",
         "required": [
+            "Yemen",
             "Djibouti",
-            "Ethiopia",
             "Eritrea",
-            "Yemen"
+            "Ethiopia"
         ],
         "start_nation": [
             "Eritrea"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Bosnia": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Bosnia",
         "required": [
-            "Serbia",
-            "Croatia",
             "Montenegro",
-            "Bosnia and Herzegovina"
+            "Bosnia and Herzegovina",
+            "Croatia",
+            "Serbia"
         ],
         "start_nation": [
             "Bosnia and Herzegovina"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Fiji": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Fiji",
         "required": [
-            "Tonga",
             "Vanuatu",
+            "Tonga",
             "New Caledonia",
             "Fiji"
         ],
         "start_nation": [
             "Fiji"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Kongo": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Kongo",
         "required": [
-            "Democratic Republic of the Congo",
-            "Angola",
             "Gabon",
-            "Republic of Congo"
+            "Republic of Congo",
+            "Angola",
+            "Democratic Republic of the Congo"
         ],
         "start_nation": [
             "Republic of Congo"
         ],
-        "status": "exists",
         "completed": false
     },
     "Knights Hospitaller": {
         "URL": "https://ronroblox.fandom.com/wiki/Knights_Hospitaller",
         "required": [
-            "Cyprus",
-            "Greece",
             "Israel",
-            "Malta"
+            "Greece",
+            "Malta",
+            "Cyprus"
         ],
         "start_nation": [
             "Malta"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kush": {
         "URL": "https://ronroblox.fandom.com/wiki/Kush",
         "required": [
-            "South Sudan",
             "Sudan",
-            "Egypt",
-            "Eritrea"
+            "Eritrea",
+            "South Sudan",
+            "Egypt"
         ],
         "start_nation": [
             "Sudan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Levant": {
         "URL": "https://ronroblox.fandom.com/wiki/Levant",
         "required": [
             "Lebanon",
-            "Syria",
             "Israel",
-            "Jordan"
+            "Jordan",
+            "Syria"
         ],
         "start_nation": [
-            "Lebanon",
             "Syria",
+            "Lebanon",
             "Jordan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Marinid Dynasty": {
@@ -1164,260 +948,212 @@
         "required": [
             "Algeria",
             "Tunisia",
-            "Gibraltar",
-            "Morocco"
+            "Morocco",
+            "Gibraltar"
         ],
         "start_nation": [
             "Morocco"
         ],
-        "status": "exists",
         "completed": false
     },
     "Mughal Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Mughal_Empire",
         "required": [
+            "India",
             "Bangladesh",
             "Pakistan",
-            "India",
             "Afghanistan"
         ],
         "start_nation": [
             "Pakistan",
             "Afghanistan"
         ],
-        "status": "exists",
         "completed": false
     },
-    "Nanyue": {
-        "URL": "https://ronroblox.fandom.com/wiki/Nanyue",
+    "Srivijaya Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Srivijaya_Empire",
         "required": [
-            "Hong Kong",
-            "Vietnam",
-            "Guangxi",
-            "Macau"
+            "Brunei",
+            "Malaysia",
+            "Singapore",
+            "Indonesia"
         ],
         "start_nation": [
-            "Guangxi",
-            "Vietnam"
+            "Indonesia"
         ],
-        "status": "planned",
+        "completed": false
+    },
+    "Swedish Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Swedish_Empire",
+        "required": [
+            "Sweden",
+            "Finland",
+            "Estonia",
+            "Latvia"
+        ],
+        "start_nation": [
+            "Sweden"
+        ],
         "completed": false
     },
     "Al Andalus": {
         "URL": "https://ronroblox.fandom.com/wiki/Al_Andalus",
         "required": [
-            "Andorra",
             "Portugal",
             "Morocco",
             "Spain",
-            "Gibraltar"
+            "Gibraltar",
+            "Andorra"
         ],
         "start_nation": [
             "Gibraltar"
         ],
-        "status": "exists",
         "completed": false
     },
     "Albanian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Albanian_Empire",
         "required": [
-            "Serbia",
+            "Montenegro",
+            "Macedonia",
             "Greece",
             "Albania",
-            "Macedonia",
-            "Montenegro"
+            "Serbia"
         ],
         "start_nation": [
             "Albania"
         ],
-        "status": "exists",
         "completed": false
     },
     "Central Asian Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Central_Asian_Union",
         "required": [
             "Uzbekistan",
-            "Tajikistan",
-            "Turkmenistan",
             "Kyrgyzstan",
-            "Kazakhstan"
+            "Turkmenistan",
+            "Kazakhstan",
+            "Tajikistan"
         ],
         "start_nation": [
             "Uzbekistan",
-            "Tajikistan",
-            "Turkmenistan",
             "Kyrgyzstan",
-            "Kazakhstan"
+            "Turkmenistan",
+            "Kazakhstan",
+            "Tajikistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Chibchan State": {
         "URL": "https://ronroblox.fandom.com/wiki/Chibchan_State",
         "required": [
             "Colombia",
-            "Panama",
             "Nicaragua",
-            "Costa Rica",
-            "Honduras"
+            "Honduras",
+            "Panama",
+            "Costa Rica"
         ],
         "start_nation": [
             "Panama",
             "Costa Rica"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Crown of Aragon": {
-        "URL": "https://ronroblox.fandom.com/wiki/Crown_of_Aragon",
-        "required": [
-            "Andorra",
-            "Catalonia",
-            "Greece",
-            "Italy",
-            "Malta"
-        ],
-        "start_nation": [
-            "Andorra",
-            "Catalonia"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Garifuna": {
-        "URL": "https://ronroblox.fandom.com/wiki/Garifuna",
-        "required": [
-            "Guatemala",
-            "Belize",
-            "Nicaragua",
-            "Saint Vincent and the Grenadines",
-            "Honduras"
-        ],
-        "start_nation": [
-            "Saint Vincent and the Grenadines"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Illyria": {
         "URL": "https://ronroblox.fandom.com/wiki/Illyria",
         "required": [
-            "Croatia",
-            "Albania",
             "Slovenia",
             "Montenegro",
-            "Bosnia and Herzegovina"
+            "Bosnia and Herzegovina",
+            "Albania",
+            "Croatia"
         ],
         "start_nation": [
             "Slovenia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Italian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Italian_Empire",
         "required": [
-            "Italy",
-            "Ethiopia",
             "Eritrea",
+            "Ethiopia",
             "Libya",
-            "Somalia"
+            "Somalia",
+            "Italy"
         ],
         "start_nation": [
             "Italy"
         ],
-        "status": "exists",
         "completed": false
     },
     "Khanate of Khiva": {
         "URL": "https://ronroblox.fandom.com/wiki/Khanate_of_Khiva",
         "required": [
-            "Kyrgyzstan",
             "Uzbekistan",
+            "Kyrgyzstan",
             "Turkmenistan",
-            "Tajikistan",
-            "Kyrgyzstan"
+            "Kyrgyzstan",
+            "Tajikistan"
         ],
         "start_nation": [
             "Uzbekistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Bora Bora": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Bora_Bora",
         "required": [
+            "Samoa",
             "Tonga",
-            "French Polynesia",
             "American Samoa",
-            "Cook Islands",
-            "Samoa"
+            "French Polynesia",
+            "Cook Islands"
         ],
         "start_nation": [
             "French Polynesia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Jerusalem": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Jerusalem",
         "required": [
             "Lebanon",
-            "Syria",
-            "Cyprus",
             "Israel",
-            "Jordan"
+            "Jordan",
+            "Syria",
+            "Cyprus"
         ],
         "start_nation": [
-            "Cyprus",
-            "Israel"
+            "Israel",
+            "Cyprus"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kingdom of Merina": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Merina",
         "required": [
-            "Mauritius",
             "Mayotte",
-            "Comoros",
             "Reunion",
+            "Mauritius",
+            "Comoros",
             "Madagascar"
         ],
         "start_nation": [
             "Madagascar"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Majapahit": {
-        "URL": "https://ronroblox.fandom.com/wiki/Majapahit",
-        "required": [
-            "Malaysia",
-            "Timor-Leste",
-            "Brunei",
-            "Indonesia",
-            "Singapore"
-        ],
-        "start_nation": [
-            "Indonesia"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Mali Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Mali_Empire",
         "required": [
+            "Guinea",
             "Senegal",
             "Mauritania",
             "Mali",
-            "Gambia",
-            "Guinea"
+            "Gambia"
         ],
         "start_nation": [
             "Mali"
         ],
-        "status": "exists",
         "completed": false
     },
     "Mayan Empire": {
@@ -1425,462 +1161,359 @@
         "required": [
             "Guatemala",
             "Belize",
-            "El Salvador",
             "Mexico",
+            "El Salvador",
             "Honduras"
         ],
         "start_nation": [
             "Guatemala"
         ],
-        "status": "exists",
         "completed": false
     },
     "Norgesveldet": {
         "URL": "https://ronroblox.fandom.com/wiki/Norgesveldet",
         "required": [
-            "Iceland",
             "Norway",
+            "Iceland",
+            "Faroe Islands",
             "Isle of Man",
-            "Greenland",
-            "Faroe Islands"
+            "Greenland"
         ],
         "start_nation": [
             "Norway"
         ],
-        "status": "exists",
         "completed": false
     },
     "North Sea Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/North_Sea_Empire",
         "required": [
-            "Iceland",
             "Norway",
+            "Iceland",
+            "Faroe Islands",
             "United Kingdom",
-            "Denmark",
-            "Faroe Islands"
+            "Denmark"
         ],
         "start_nation": [
-            "Iceland",
             "Norway",
+            "Iceland",
+            "Faroe Islands",
             "United Kingdom",
-            "Denmark",
-            "Faroe Islands"
+            "Denmark"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Outremer": {
-        "URL": "https://ronroblox.fandom.com/wiki/Outremer",
-        "required": [
-            "Lebanon",
-            "Syria",
-            "Cyprus",
-            "Israel",
-            "Jordan"
-        ],
-        "start_nation": [
-            "Lebanon",
-            "Cyprus"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Pala Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Pala_Empire",
         "required": [
-            "Bangladesh",
-            "Bhutan",
             "Nepal",
+            "India",
+            "Bangladesh",
             "Pakistan",
-            "India"
+            "Bhutan"
         ],
         "start_nation": [
             "Bangladesh"
         ],
-        "status": "exists",
         "completed": false
     },
     "Polish-Lithuanian Commonwealth": {
         "URL": "https://ronroblox.fandom.com/wiki/Polish-Lithuanian_Commonwealth",
         "required": [
             "Ukraine",
+            "Belarus",
             "Latvia",
             "Poland",
-            "Belarus",
             "Lithuania"
         ],
         "start_nation": [
-            "Lithuania",
-            "Poland"
+            "Poland",
+            "Lithuania"
         ],
-        "status": "exists",
         "completed": false
     },
     "Rio de la Plata": {
         "URL": "https://ronroblox.fandom.com/wiki/Rio_de_la_Plata",
         "required": [
+            "Paraguay",
             "Argentina",
-            "Uruguay",
-            "Chile",
             "Bolivia",
-            "Paraguay"
+            "Uruguay",
+            "Chile"
         ],
         "start_nation": [
             "Argentina"
         ],
-        "status": "exists",
         "completed": false
     },
     "Sahrawi Sultanate": {
         "URL": "https://ronroblox.fandom.com/wiki/Sahrawi_Sultanate",
         "required": [
-            "Mauritania",
+            "Algeria",
             "Western Sahara",
-            "Mali",
+            "Mauritania",
             "Morocco",
-            "Algeria"
+            "Mali"
         ],
         "start_nation": [
             "Western Sahara",
             "Mauritania"
         ],
-        "status": "exists",
+        "completed": false
+    },
+    "Spartan Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Spartan_Empire",
+        "required": [
+            "Bulgaria",
+            "Montenegro",
+            "Macedonia",
+            "Greece",
+            "Albania"
+        ],
+        "start_nation": [
+            "Greece"
+        ],
+        "completed": false
+    },
+    "Tuareg State": {
+        "URL": "https://ronroblox.fandom.com/wiki/Tuareg_State",
+        "required": [
+            "Algeria",
+            "Tunisia",
+            "Burkina Faso",
+            "Niger",
+            "Mali"
+        ],
+        "start_nation": [
+            "Algeria",
+            "Tunisia",
+            "Burkina Faso",
+            "Niger",
+            "Mali"
+        ],
+        "completed": false
+    },
+    "Turkic Khanate": {
+        "URL": "https://ronroblox.fandom.com/wiki/Turkic_Khanate",
+        "required": [
+            "Uzbekistan",
+            "Turkmenistan",
+            "Kazakhstan",
+            "Mongolia",
+            "Tajikistan"
+        ],
+        "start_nation": [
+            "Kazakhstan"
+        ],
+        "completed": false
+    },
+    "Upper Volta": {
+        "URL": "https://ronroblox.fandom.com/wiki/Upper_Volta",
+        "required": [
+            "Benin",
+            "Togo",
+            "Cote d'Ivoire",
+            "Burkina Faso",
+            "Ghana"
+        ],
+        "start_nation": [
+            "Burkina Faso"
+        ],
         "completed": false
     },
     "Assyria": {
         "URL": "https://ronroblox.fandom.com/wiki/Assyria",
         "required": [
             "Lebanon",
-            "Syria",
-            "Iraq",
-            "Egypt",
             "Israel",
-            "Jordan"
+            "Jordan",
+            "Iraq",
+            "Syria",
+            "Egypt"
         ],
         "start_nation": [
             "Iraq"
         ],
-        "status": "exists",
         "completed": false
     },
     "Babylonian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Babylonian_Empire",
         "required": [
             "Lebanon",
-            "Syria",
-            "Iraq",
             "Israel",
+            "Jordan",
             "Kuwait",
-            "Jordan"
+            "Iraq",
+            "Syria"
         ],
         "start_nation": [
             "Iraq"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Chagatai Khanate": {
-        "URL": "https://ronroblox.fandom.com/wiki/Chagatai_Khanate",
-        "required": [
-            "Uzbekistan",
-            "Sinkiang",
-            "Tajikistan",
-            "Kyrgyzstan",
-            "File:1200px-Flag of Kyrgyzstan.svg.png",
-            "Afghanistan"
-        ],
-        "start_nation": [
-            "Sinkiang"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Danish Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Danish_Empire",
-        "required": [
-            "Ghana",
-            "Iceland",
-            "Norway",
-            "Denmark",
-            "Greenland",
-            "Faroe Islands"
-        ],
-        "start_nation": [
-            "Denmark"
-        ],
-        "status": "planned",
         "completed": false
     },
     "East African Federation": {
         "URL": "https://ronroblox.fandom.com/wiki/East_African_Federation",
         "required": [
             "Tanzania",
-            "Rwanda",
-            "South Sudan",
-            "Uganda",
+            "Burundi",
             "Kenya",
-            "Burundi"
+            "South Sudan",
+            "Rwanda",
+            "Uganda"
         ],
         "start_nation": [
             "Tanzania",
-            "Rwanda",
-            "South Sudan",
-            "Uganda",
+            "Burundi",
             "Kenya",
-            "Burundi"
+            "South Sudan",
+            "Rwanda",
+            "Uganda"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Empire of Yemen": {
         "URL": "https://ronroblox.fandom.com/wiki/Empire_of_Yemen",
         "required": [
-            "Djibouti",
-            "Eritrea",
-            "Oman",
-            "Yemen",
             "United Arab Emirates",
+            "Yemen",
+            "Djibouti",
+            "Oman",
+            "Eritrea",
             "Somalia"
         ],
         "start_nation": [
             "Yemen"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Filipino Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Filipino_Empire",
-        "required": [
-            "Malaysia",
-            "Brunei",
-            "Vietnam",
-            "Laos",
-            "Philippines",
-            "Taiwan"
-        ],
-        "start_nation": [
-            "Philippines"
-        ],
-        "status": "exists",
         "completed": false
     },
     "Hephthalite Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Hephthalite_Empire",
         "required": [
             "Uzbekistan",
-            "Tajikistan",
-            "Turkmenistan",
             "Kyrgyzstan",
+            "Turkmenistan",
             "Pakistan",
+            "Tajikistan",
             "Afghanistan"
         ],
         "start_nation": [
             "Tajikistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Kalmar Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Kalmar_Union",
         "required": [
-            "Finland",
+            "Norway",
             "Iceland",
             "Sweden",
-            "Norway",
-            "Denmark",
-            "Greenland"
+            "Finland",
+            "Greenland",
+            "Denmark"
         ],
         "start_nation": [
-            "Finland",
+            "Norway",
             "Iceland",
             "Sweden",
-            "Norway",
-            "Denmark",
-            "Greenland"
+            "Finland",
+            "Greenland",
+            "Denmark"
         ],
-        "status": "exists",
-        "completed": true
+        "completed": false
     },
     "Khwarazmian Dynasty": {
         "URL": "https://ronroblox.fandom.com/wiki/Khwarazmian_Dynasty",
         "required": [
-            "Iran",
             "Uzbekistan",
-            "Turkmenistan",
-            "Tajikistan",
             "Kyrgyzstan",
+            "Turkmenistan",
+            "Iran",
+            "Tajikistan",
             "Afghanistan"
         ],
         "start_nation": [
             "Iran",
             "Turkmenistan"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Kilwa Sultanate": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kilwa_Sultanate",
-        "required": [
-            "Tanzania",
-            "Mayotte",
-            "Mozambique",
-            "Kenya",
-            "Comoros",
-            "Madagascar"
-        ],
-        "start_nation": [
-            "Tanzania"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Kingdom of Armenia": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Armenia",
-        "required": [
-            "Azerbaijan",
-            "Lebanon",
-            "Syria",
-            "Turkey",
-            "Israel",
-            "Armenia"
-        ],
-        "start_nation": [
-            "Armenia"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Kingdom of Hungary": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Hungary",
-        "required": [
-            "Romania",
-            "Bosnia",
-            "Slovenia",
-            "Croatia",
-            "Slovakia",
-            "Hungary"
-        ],
-        "start_nation": [
-            "Hungary"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Kushan Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Kushan_Empire",
         "required": [
             "Uzbekistan",
-            "Turkmenistan",
-            "Tajikistan",
-            "Pakistan",
             "Kyrgyzstan",
+            "Turkmenistan",
+            "Pakistan",
+            "Tajikistan",
             "Afghanistan"
         ],
         "start_nation": [
-            "Afghanistan",
-            "Tajikistan"
+            "Tajikistan",
+            "Afghanistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Maghreb Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Maghreb_Union",
         "required": [
-            "Mauritania",
-            "Western Sahara",
             "Algeria",
+            "Western Sahara",
+            "Mauritania",
             "Tunisia",
-            "Libya",
-            "Morocco"
+            "Morocco",
+            "Libya"
         ],
         "start_nation": [
-            "Mauritania",
             "Algeria",
+            "Mauritania",
             "Tunisia",
-            "Libya",
-            "Morocco"
+            "Morocco",
+            "Libya"
         ],
-        "status": "exists",
         "completed": false
     },
     "Mamluk Sultanate": {
         "URL": "https://ronroblox.fandom.com/wiki/Mamluk_Sultanate",
         "required": [
             "Lebanon",
-            "Syria",
-            "Egypt",
-            "Saudi Arabia",
             "Israel",
-            "Jordan"
+            "Jordan",
+            "Syria",
+            "Saudi Arabia",
+            "Egypt"
         ],
         "start_nation": [
             "Egypt"
         ],
-        "status": "exists",
         "completed": false
     },
     "Maurya Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Maurya_Empire",
         "required": [
-            "Bangladesh",
-            "Bhutan",
             "Nepal",
-            "Pakistan",
             "India",
+            "Bhutan",
+            "Bangladesh",
+            "Pakistan",
             "Afghanistan"
         ],
         "start_nation": [
             "India"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Ming Dynasty": {
-        "URL": "https://ronroblox.fandom.com/wiki/Ming_Dynasty",
-        "required": [
-            "Qinghai",
-            "Hong Kong",
-            "Fujian",
-            "Anhui",
-            "Guangxi",
-            "Shanxi"
-        ],
-        "start_nation": [
-            "Anhui"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Palmyrene Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Palmyrene_Empire",
         "required": [
-            "Lebanon",
-            "Syria",
             "Turkey",
+            "Lebanon",
             "Israel",
-            "Egypt",
-            "Jordan"
+            "Jordan",
+            "Syria",
+            "Egypt"
         ],
         "start_nation": [
             "Syria"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Qin Dynasty": {
-        "URL": "https://ronroblox.fandom.com/wiki/Qin_Dynasty",
-        "required": [
-            "Hong Kong",
-            "Macau",
-            "Fujian",
-            "Anhui",
-            "Guangxi",
-            "Shanxi"
-        ],
-        "start_nation": [
-            "Shanxi"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Rattanakosin Kingdom": {
@@ -1888,17 +1521,16 @@
         "required": [
             "Malaysia",
             "Cambodia",
-            "Thailand",
+            "Singapore",
             "Laos",
-            "Burma",
-            "Singapore"
+            "Thailand",
+            "Burma"
         ],
         "start_nation": [
             "Malaysia",
             "Burma",
             "Thailand"
         ],
-        "status": "exists",
         "completed": false
     },
     "Republic of Central America": {
@@ -1906,144 +1538,134 @@
         "required": [
             "Guatemala",
             "Belize",
+            "El Salvador",
             "Nicaragua",
-            "Costa Rica",
             "Honduras",
-            "El Salvador"
+            "Costa Rica"
         ],
         "start_nation": [
             "Guatemala",
             "Belize",
+            "El Salvador",
             "Nicaragua",
-            "Costa Rica",
             "Honduras",
-            "El Salvador"
+            "Costa Rica"
         ],
-        "status": "exists",
         "completed": false
     },
-    "Rep\u00fablica Bolivariana": {
-        "URL": "https://ronroblox.fandom.com/wiki/Rep%C3%BAblica_Bolivariana",
+    "South African Union": {
+        "URL": "https://ronroblox.fandom.com/wiki/South_African_Union",
         "required": [
-            "Ecuador",
-            "Venezuela",
-            "Colombia",
-            "Panama",
-            "Bolivia",
-            "Peru"
+            "Lesotho",
+            "South Africa",
+            "Zimbabwe",
+            "Eswatini",
+            "Botswana",
+            "Namibia"
         ],
         "start_nation": [
-            "Venezuela"
+            "South Africa"
         ],
-        "status": "planned",
+        "completed": false
+    },
+    "Yuan Dynasty": {
+        "URL": "https://ronroblox.fandom.com/wiki/Yuan_Dynasty",
+        "required": [
+            "Hong Kong",
+            "China",
+            "Mongolia",
+            "North Korea",
+            "South Korea",
+            "Macau"
+        ],
+        "start_nation": [
+            "Mongolia"
+        ],
+        "completed": false
+    },
+    "Yugoslavia": {
+        "URL": "https://ronroblox.fandom.com/wiki/Yugoslavia",
+        "required": [
+            "Slovenia",
+            "Montenegro",
+            "Macedonia",
+            "Bosnia and Herzegovina",
+            "Croatia",
+            "Serbia"
+        ],
+        "start_nation": [
+            "Serbia"
+        ],
         "completed": false
     },
     "Arabia": {
         "URL": "https://ronroblox.fandom.com/wiki/Arabia",
         "required": [
-            "Bahrain",
-            "Saudi Arabia",
-            "Qatar",
-            "Oman",
-            "Kuwait",
             "United Arab Emirates",
-            "Yemen"
+            "Yemen",
+            "Bahrain",
+            "Kuwait",
+            "Oman",
+            "Qatar",
+            "Saudi Arabia"
         ],
         "start_nation": [
-            "Bahrain",
-            "Saudi Arabia",
-            "Qatar",
-            "Oman",
-            "Kuwait",
             "United Arab Emirates",
-            "Yemen"
+            "Yemen",
+            "Bahrain",
+            "Kuwait",
+            "Oman",
+            "Qatar",
+            "Saudi Arabia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Austrian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Austrian_Empire",
         "required": [
-            "Romania",
-            "Austria",
             "Slovenia",
-            "Croatia",
+            "Romania",
+            "Hungary",
             "Slovakia",
             "Czech Republic",
-            "Hungary"
+            "Croatia",
+            "Austria"
         ],
         "start_nation": [
             "Austria"
         ],
-        "status": "exists",
         "completed": false
     },
     "Bulgarian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Bulgarian_Empire",
         "required": [
-            "Romania",
-            "Serbia",
-            "Greece",
-            "Macedonia",
             "Bulgaria",
+            "Montenegro",
+            "Romania",
+            "Macedonia",
             "Hungary",
-            "Montenegro"
+            "Greece",
+            "Serbia"
         ],
         "start_nation": [
             "Bulgaria"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Greater Syria": {
-        "URL": "https://ronroblox.fandom.com/wiki/Greater_Syria",
-        "required": [
-            "Lebanon",
-            "Syria",
-            "Iraq",
-            "Cyprus",
-            "Israel",
-            "Kuwait",
-            "Jordan"
-        ],
-        "start_nation": [
-            "Syria"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Kingdom of Dacia": {
         "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_Dacia",
         "required": [
-            "Romania",
-            "Ukraine",
-            "Serbia",
-            "Slovakia",
-            "Moldova",
             "Bulgaria",
-            "Hungary"
+            "Romania",
+            "Moldova",
+            "Ukraine",
+            "Hungary",
+            "Slovakia",
+            "Serbia"
         ],
         "start_nation": [
             "Romania"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Liang Dynasty": {
-        "URL": "https://ronroblox.fandom.com/wiki/Liang_Dynasty",
-        "required": [
-            "Hong Kong",
-            "Macau",
-            "Vietnam",
-            "Fujian",
-            "Guangxi",
-            "Anhui",
-            "Shanxi"
-        ],
-        "start_nation": [
-            "Shanxi"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Mexican Empire": {
@@ -2051,822 +1673,605 @@
         "required": [
             "Guatemala",
             "Belize",
-            "Nicaragua",
-            "Costa Rica",
             "Mexico",
+            "El Salvador",
+            "Nicaragua",
             "Honduras",
-            "El Salvador"
+            "Costa Rica"
         ],
         "start_nation": [
             "Mexico"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Polynesian Confederation": {
-        "URL": "https://ronroblox.fandom.com/wiki/Polynesian_Confederation",
-        "required": [
-            "Hawaii",
-            "Tonga",
-            "New Zealand",
-            "French Polynesia",
-            "American Samoa",
-            "Cook Islands",
-            "Samoa"
-        ],
-        "start_nation": [
-            "Hawaii"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Austro-Hungarian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Austro-Hungarian_Empire",
         "required": [
-            "Romania",
-            "Croatia",
-            "Slovakia",
             "Slovenia",
-            "Austria",
+            "Romania",
+            "Bosnia and Herzegovina",
             "Czech Republic",
+            "Croatia",
+            "Austria",
             "Hungary",
-            "Bosnia and Herzegovina"
+            "Slovakia"
         ],
         "start_nation": [
             "Austria",
             "Hungary"
         ],
-        "status": "exists",
         "completed": false
     },
     "Byzantine Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Byzantine_Empire",
         "required": [
-            "Albania",
-            "Montenegro",
-            "Cyprus",
-            "Turkey",
-            "Serbia",
-            "Greece",
             "Macedonia",
-            "Bulgaria"
+            "Albania",
+            "Bulgaria",
+            "Turkey",
+            "Montenegro",
+            "Greece",
+            "Cyprus",
+            "Serbia"
         ],
         "start_nation": [
             "Greece"
         ],
-        "status": "exists",
         "completed": false
     },
     "Carthage": {
         "URL": "https://ronroblox.fandom.com/wiki/Carthage",
         "required": [
             "Algeria",
-            "Tunisia",
-            "Italy",
-            "Gibraltar",
-            "Malta",
             "Spain",
+            "Gibraltar",
+            "Italy",
+            "Tunisia",
+            "Morocco",
             "Libya",
-            "Morocco"
+            "Malta"
         ],
         "start_nation": [
             "Tunisia"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Lapita State": {
-        "URL": "https://ronroblox.fandom.com/wiki/Lapita_State",
-        "required": [
-            "Tonga",
-            "American Samoa",
-            "Fiji",
-            "Vanuatu",
-            "Solomon Islands",
-            "New Caledonia",
-            "Samoa",
-            "Papua New Guinea"
-        ],
-        "start_nation": [
-            "Solomon Islands"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Mandingo Federation": {
         "URL": "https://ronroblox.fandom.com/wiki/Mandingo_Federation",
         "required": [
-            "Sierra Leone",
-            "Mali",
-            "Gambia",
-            "Guinea-Bissau",
-            "Senegal",
             "Cote d'Ivoire",
+            "Guinea",
+            "Guinea-Bissau",
+            "Sierra Leone",
+            "Senegal",
             "Burkina Faso",
-            "Guinea"
+            "Mali",
+            "Gambia"
         ],
         "start_nation": [
-            "Sierra Leone",
-            "Mali",
-            "Gambia",
-            "Guinea-Bissau",
-            "Senegal",
             "Cote d'Ivoire",
+            "Guinea",
+            "Guinea-Bissau",
+            "Sierra Leone",
+            "Senegal",
             "Burkina Faso",
-            "Guinea"
+            "Mali",
+            "Gambia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Omani Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Omani_Empire",
         "required": [
-            "Bahrain",
-            "Tanzania",
-            "Qatar",
-            "Oman",
             "Yemen",
-            "Kenya",
+            "Bahrain",
+            "Somalia",
             "United Arab Emirates",
-            "Somalia"
+            "Tanzania",
+            "Oman",
+            "Kenya",
+            "Qatar"
         ],
         "start_nation": [
             "Oman"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Parthian Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Parthian_Empire",
-        "required": [
-            "Iraq",
-            "Turkmenistan",
-            "Kuwait",
-            "Armenia",
-            "Afghanistan",
-            "Azerbaijan",
-            "Iran",
-            "Pakistan"
-        ],
-        "start_nation": [
-            "Iran"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Balkan Federation": {
         "URL": "https://ronroblox.fandom.com/wiki/Balkan_Federation",
         "required": [
-            "Croatia",
-            "Albania",
             "Slovenia",
-            "Montenegro",
-            "Serbia",
-            "Greece",
+            "Bosnia and Herzegovina",
             "Macedonia",
+            "Albania",
+            "Croatia",
             "Bulgaria",
-            "Bosnia and Herzegovina"
+            "Montenegro",
+            "Greece",
+            "Serbia"
         ],
         "start_nation": [
-            "Croatia",
-            "Albania",
             "Slovenia",
-            "Montenegro",
-            "Serbia",
-            "Greece",
+            "Bosnia and Herzegovina",
             "Macedonia",
+            "Albania",
+            "Croatia",
             "Bulgaria",
-            "Bosnia and Herzegovina"
+            "Montenegro",
+            "Greece",
+            "Serbia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Holy Roman Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Holy_Roman_Empire",
         "required": [
-            "Luxembourg",
-            "Netherlands",
             "Slovenia",
-            "Belgium",
-            "Switzerland",
-            "Austria",
             "Liechtenstein",
-            "Germany",
-            "Czech Republic"
-        ],
-        "start_nation": [
-            "Austria",
-            "Liechtenstein"
-        ],
-        "status": "exists",
-        "completed": false
-    },
-    "Hunnic Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Hunnic_Empire",
-        "required": [
-            "Romania",
-            "Ukraine",
-            "Bavaria",
-            "Slovakia",
-            "Austria",
-            "Serbia",
-            "Moldova",
+            "Luxembourg",
             "Czech Republic",
-            "Hungary"
+            "Netherlands",
+            "Belgium",
+            "Austria",
+            "Switzerland",
+            "Germany"
         ],
         "start_nation": [
-            "Hungary"
+            "Liechtenstein",
+            "Austria"
         ],
-        "status": "planned",
         "completed": false
     },
-    "Egyptian Khedivate": {
-        "URL": "https://ronroblox.fandom.com/wiki/Egyptian_Khedivate",
+    "Tongan Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Tongan_Empire",
         "required": [
-            "Lebanon",
-            "South Sudan",
-            "Syria",
-            "Israel",
-            "Jordan",
-            "Cyprus",
-            "Sudan",
-            "Egypt",
-            "Eritrea",
-            "Saudi Arabia"
+            "Tonga",
+            "Solomon Islands",
+            "Marshall Islands",
+            "Cook Islands",
+            "American Samoa",
+            "Vanuatu",
+            "New Caledonia",
+            "Kiribati",
+            "Fiji"
         ],
         "start_nation": [
-            "Egypt"
+            "Tonga"
         ],
-        "status": "planned",
         "completed": false
     },
     "Federation of Southeast Asian States": {
         "URL": "https://ronroblox.fandom.com/wiki/Federation_of_Southeast_Asian_States",
         "required": [
-            "Cambodia",
-            "Vietnam",
-            "Thailand",
-            "Indonesia",
-            "Philippines",
-            "Laos",
             "Malaysia",
-            "Brunei",
+            "Singapore",
+            "Vietnam",
+            "Philippines",
             "Burma",
-            "Singapore"
+            "Brunei",
+            "Cambodia",
+            "Indonesia",
+            "Thailand",
+            "Laos"
         ],
         "start_nation": [
-            "Cambodia",
-            "Vietnam",
-            "Thailand",
-            "Indonesia",
-            "Philippines",
-            "Laos",
             "Malaysia",
+            "Singapore",
+            "Vietnam",
+            "Philippines",
             "Brunei",
+            "Cambodia",
+            "Indonesia",
+            "Thailand",
             "Burma",
-            "Singapore"
+            "Laos"
         ],
-        "status": "exists",
         "completed": false
     },
     "Frankish Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Frankish_Empire",
         "required": [
+            "Slovenia",
+            "Liechtenstein",
             "Luxembourg",
             "France",
             "Netherlands",
-            "Slovenia",
-            "Belgium",
-            "Switzerland",
             "Italy",
+            "Belgium",
             "Austria",
-            "Liechtenstein",
+            "Switzerland",
             "Germany"
         ],
         "start_nation": [
             "France",
             "Germany"
         ],
-        "status": "exists",
         "completed": false
     },
     "Pacific Federation": {
         "URL": "https://ronroblox.fandom.com/wiki/Pacific_Federation",
         "required": [
-            "Tonga",
-            "Marshall Islands",
-            "Palau",
-            "Fiji",
-            "Vanuatu",
-            "Solomon Islands",
-            "Cook Islands",
-            "Kiribati",
             "Samoa",
-            "Papua New Guinea"
+            "Tonga",
+            "Solomon Islands",
+            "Marshall Islands",
+            "Cook Islands",
+            "Palau",
+            "Vanuatu",
+            "Papua New Guinea",
+            "Kiribati",
+            "Fiji"
         ],
         "start_nation": [
-            "Tonga",
-            "Marshall Islands",
-            "Palau",
-            "Fiji",
-            "Vanuatu",
-            "Solomon Islands",
-            "Cook Islands",
-            "Kiribati",
             "Samoa",
-            "Papua New Guinea"
+            "Tonga",
+            "Solomon Islands",
+            "Marshall Islands",
+            "Cook Islands",
+            "Palau",
+            "Vanuatu",
+            "Papua New Guinea",
+            "Kiribati",
+            "Fiji"
         ],
-        "status": "exists",
         "completed": false
     },
     "Empire of Japan": {
         "URL": "https://ronroblox.fandom.com/wiki/Empire_of_Japan",
         "required": [
-            "Cambodia",
-            "Vietnam",
-            "Indonesia",
-            "Philippines",
-            "Laos",
-            "South Korea",
             "Malaysia",
+            "Vietnam",
+            "Philippines",
+            "South Korea",
             "Japan",
-            "North Korea",
+            "Taiwan",
             "Burma",
-            "Taiwan"
+            "Cambodia",
+            "North Korea",
+            "Indonesia",
+            "Laos"
         ],
         "start_nation": [
             "Japan"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Gallic Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Gallic_Empire",
-        "required": [
-            "Portugal",
-            "Luxembourg",
-            "France",
-            "Netherlands",
-            "Belgium",
-            "Switzerland",
-            "Andorra",
-            "Brittany",
-            "United Kingdom",
-            "Spain",
-            "Gibraltar"
-        ],
-        "start_nation": [
-            "Belgium",
-            "Brittany"
-        ],
-        "status": "planned",
         "completed": false
     },
     "German Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/German_Empire",
         "required": [
-            "Rwanda",
-            "Marshall Islands",
-            "Palau",
-            "Burundi",
             "Cameroon",
-            "Tanzania",
-            "Namibia",
-            "Germany",
             "Togo",
             "Samoa",
-            "Papua New Guinea"
+            "Marshall Islands",
+            "Rwanda",
+            "Palau",
+            "Namibia",
+            "Tanzania",
+            "Burundi",
+            "Papua New Guinea",
+            "Germany"
         ],
         "start_nation": [
             "Germany"
         ],
-        "status": "exists",
         "completed": false
     },
     "Gold Coast": {
         "URL": "https://ronroblox.fandom.com/wiki/Gold_Coast",
         "required": [
             "Benin",
+            "Togo",
+            "Cote d'Ivoire",
             "Ghana",
-            "Sierra Leone",
-            "Gambia",
-            "Guinea-Bissau",
             "Liberia",
+            "Guinea",
+            "Guinea-Bissau",
+            "Sierra Leone",
             "Senegal",
             "Nigeria",
-            "Cote d'Ivoire",
-            "Togo",
-            "Guinea"
+            "Gambia"
         ],
         "start_nation": [
             "Benin",
+            "Togo",
+            "Cote d'Ivoire",
             "Ghana",
-            "Sierra Leone",
-            "Gambia",
-            "Guinea-Bissau",
             "Liberia",
+            "Guinea",
+            "Guinea-Bissau",
+            "Sierra Leone",
             "Senegal",
             "Nigeria",
-            "Cote d'Ivoire",
-            "Togo",
-            "Guinea"
+            "Gambia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Nile Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Nile_Empire",
         "required": [
-            "Ethiopia",
-            "Rwanda",
-            "South Sudan",
-            "Uganda",
-            "Burundi",
-            "Democratic Republic of the Congo",
-            "Tanzania",
-            "Sudan",
-            "Egypt",
             "Eritrea",
-            "Kenya"
+            "Rwanda",
+            "Sudan",
+            "Tanzania",
+            "Burundi",
+            "Kenya",
+            "Ethiopia",
+            "South Sudan",
+            "Democratic Republic of the Congo",
+            "Egypt",
+            "Uganda"
         ],
         "start_nation": [
-            "Ethiopia",
-            "Rwanda",
-            "South Sudan",
-            "Uganda",
-            "Burundi",
-            "Democratic Republic of the Congo",
-            "Tanzania",
-            "Sudan",
-            "Egypt",
             "Eritrea",
-            "Kenya"
+            "Rwanda",
+            "Sudan",
+            "Tanzania",
+            "Burundi",
+            "Kenya",
+            "Ethiopia",
+            "South Sudan",
+            "Democratic Republic of the Congo",
+            "Egypt",
+            "Uganda"
         ],
-        "status": "exists",
         "completed": false
     },
     "Ostrogothic Kingdom": {
         "URL": "https://ronroblox.fandom.com/wiki/Ostrogothic_Kingdom",
         "required": [
-            "Croatia",
-            "Slovakia",
             "Slovenia",
-            "Switzerland",
-            "Italy",
-            "Monaco",
-            "Austria",
+            "Bosnia and Herzegovina",
             "Czech Republic",
-            "San Marino",
-            "Hungary",
-            "Bosnia and Herzegovina"
-        ],
-        "start_nation": [
-            "Monaco",
-            "San Marino",
             "Croatia",
+            "San Marino",
+            "Italy",
+            "Austria",
+            "Monaco",
+            "Switzerland",
+            "Hungary",
+            "Slovakia"
+        ],
+        "start_nation": [
             "Slovenia",
-            "Bosnia and Herzegovina"
+            "Bosnia and Herzegovina",
+            "Croatia",
+            "San Marino",
+            "Monaco"
         ],
-        "status": "exists",
         "completed": false
     },
-    "Arabian Sharifate": {
-        "URL": "https://ronroblox.fandom.com/wiki/Arabian_Sharifate",
+    "Timurid Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Timurid_Empire",
         "required": [
-            "Lebanon",
-            "Syria",
+            "Uzbekistan",
+            "Kyrgyzstan",
+            "Armenia",
+            "Turkmenistan",
+            "Iran",
             "Iraq",
-            "Bahrain",
-            "Israel",
+            "Azerbaijan",
+            "Georgia",
             "Kuwait",
-            "Jordan",
-            "Saudi Arabia",
-            "Qatar",
-            "Oman",
-            "Yemen",
-            "United Arab Emirates"
+            "Tajikistan",
+            "Afghanistan"
         ],
         "start_nation": [
-            "Jordan"
+            "Uzbekistan"
         ],
-        "status": "planned",
-        "completed": false
-    },
-    "Cambaraga": {
-        "URL": "https://ronroblox.fandom.com/wiki/Cambaraga",
-        "required": [
-            "Curacao",
-            "Aruba",
-            "Bahamas",
-            "Guatemala",
-            "Cuba",
-            "Belize",
-            "Panama",
-            "Bermuda",
-            "Nicaragua",
-            "Costa Rica",
-            "Wales",
-            "Honduras"
-        ],
-        "start_nation": [
-            "Wales"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Oceanic Union": {
         "URL": "https://ronroblox.fandom.com/wiki/Oceanic_Union",
         "required": [
+            "Samoa",
             "Tonga",
-            "New Zealand",
+            "Solomon Islands",
             "Marshall Islands",
             "Australia",
-            "American Samoa",
             "Palau",
-            "Fiji",
+            "American Samoa",
             "Vanuatu",
-            "Solomon Islands",
+            "New Zealand",
+            "Papua New Guinea",
             "Kiribati",
-            "Samoa",
-            "Papua New Guinea"
+            "Fiji"
         ],
         "start_nation": [
+            "Samoa",
             "Tonga",
-            "New Zealand",
+            "Solomon Islands",
             "Marshall Islands",
             "Australia",
-            "American Samoa",
             "Palau",
-            "Fiji",
+            "American Samoa",
             "Vanuatu",
-            "Solomon Islands",
+            "New Zealand",
+            "Papua New Guinea",
             "Kiribati",
-            "Samoa",
-            "Papua New Guinea"
+            "Fiji"
         ],
-        "status": "exists",
         "completed": false
     },
     "Portuguese Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Portuguese_Empire",
         "required": [
-            "French Guiana",
-            "Timor-Leste",
-            "Portugal",
-            "Sri Lanka",
-            "Brazil",
             "Sao Tome and Principe",
-            "Macau",
+            "Sri Lanka",
+            "Portugal",
+            "Angola",
+            "Cabo Verde",
+            "Brazil",
+            "Maldives",
             "Guinea-Bissau",
             "Uruguay",
-            "Cabo Verde",
-            "Angola",
-            "Maldives",
+            "Timor-Leste",
+            "Macau",
+            "French Guiana",
             "Mozambique"
         ],
         "start_nation": [
             "Portugal"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Safavid Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Safavid_Empire",
-        "required": [
-            "Syria",
-            "Iraq",
-            "Turkmenistan",
-            "Bahrain",
-            "Kuwait",
-            "Armenia",
-            "Afghanistan",
-            "Azerbaijan",
-            "Iran",
-            "Tajikistan",
-            "Qatar",
-            "Georgia",
-            "Oman"
-        ],
-        "start_nation": [
-            "Azerbaijan"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Saharan Kingdom": {
         "URL": "https://ronroblox.fandom.com/wiki/Saharan_Kingdom",
         "required": [
-            "Mali",
-            "Chad",
-            "Morocco",
             "Algeria",
-            "Tunisia",
+            "Eritrea",
+            "Sudan",
+            "Western Sahara",
             "Senegal",
             "Mauritania",
-            "Western Sahara",
+            "Chad",
+            "Tunisia",
+            "Morocco",
+            "Libya",
             "Niger",
-            "Sudan",
             "Egypt",
-            "Eritrea",
-            "Libya"
+            "Mali"
         ],
         "start_nation": [
-            "Mali",
-            "Chad",
-            "Morocco",
             "Algeria",
-            "Tunisia",
+            "Eritrea",
+            "Sudan",
+            "Western Sahara",
             "Senegal",
             "Mauritania",
-            "Western Sahara",
+            "Chad",
+            "Tunisia",
+            "Morocco",
+            "Libya",
             "Niger",
-            "Sudan",
             "Egypt",
-            "Eritrea",
-            "Libya"
+            "Mali"
         ],
-        "status": "exists",
+        "completed": false
+    },
+    "United States of South America": {
+        "URL": "https://ronroblox.fandom.com/wiki/United_States_of_South_America",
+        "required": [
+            "Argentina",
+            "French Guiana",
+            "Venezuela",
+            "Peru",
+            "Guyana",
+            "Ecuador",
+            "Brazil",
+            "Suriname",
+            "Chile",
+            "Colombia",
+            "Paraguay",
+            "Bolivia",
+            "Uruguay"
+        ],
+        "start_nation": [
+            "Argentina",
+            "French Guiana",
+            "Venezuela",
+            "Peru",
+            "Guyana",
+            "Ecuador",
+            "Brazil",
+            "Suriname",
+            "Chile",
+            "Colombia",
+            "Paraguay",
+            "Bolivia",
+            "Uruguay"
+        ],
         "completed": false
     },
     "Afsharid Dynasty": {
         "URL": "https://ronroblox.fandom.com/wiki/Afsharid_Dynasty",
         "required": [
-            "Iraq",
-            "Turkmenistan",
             "Bahrain",
-            "Kuwait",
-            "Armenia",
-            "Afghanistan",
-            "Azerbaijan",
-            "Iran",
             "Uzbekistan",
-            "Tajikistan",
-            "Qatar",
+            "Armenia",
+            "Turkmenistan",
+            "Iran",
+            "Iraq",
+            "Azerbaijan",
             "Georgia",
+            "United Arab Emirates",
+            "Kuwait",
             "Oman",
-            "United Arab Emirates"
+            "Qatar",
+            "Tajikistan",
+            "Afghanistan"
         ],
         "start_nation": [
             "Azerbaijan"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Bantu Union": {
-        "URL": "https://ronroblox.fandom.com/wiki/Bantu_Union",
-        "required": [
-            "Rwanda",
-            "Eswatini",
-            "Zimbabwe",
-            "Uganda",
-            "Republic of Congo",
-            "Zambia",
-            "Burundi",
-            "Democratic Republic of the Congo",
-            "Cameroon",
-            "Malawi",
-            "Gabon",
-            "Angola",
-            "Mozambique",
-            "Equatorial Guinea"
-        ],
-        "start_nation": [
-            "Rwanda",
-            "Eswatini",
-            "Zimbabwe",
-            "Uganda",
-            "Republic of Congo",
-            "Zambia",
-            "Burundi",
-            "Democratic Republic of the Congo",
-            "Cameroon",
-            "Malawi",
-            "Gabon",
-            "Angola",
-            "Mozambique",
-            "Equatorial Guinea"
-        ],
-        "status": "exists",
         "completed": false
     },
     "Dutch Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Dutch_Empire",
         "required": [
-            "Curacao",
-            "Aruba",
-            "Taiwan",
+            "Sao Tome and Principe",
             "Sri Lanka",
             "Luxembourg",
-            "Indonesia",
-            "South Africa",
-            "Trinidad and Tobago",
-            "Sao Tome and Principe",
-            "Netherlands",
-            "Belgium",
             "Guyana",
+            "Trinidad and Tobago",
+            "Netherlands",
             "Mauritius",
-            "Suriname"
+            "Suriname",
+            "Belgium",
+            "Curacao",
+            "Taiwan",
+            "South Africa",
+            "Indonesia",
+            "Aruba"
         ],
         "start_nation": [
             "Netherlands"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Moroccan Caliphate": {
-        "URL": "https://ronroblox.fandom.com/wiki/Moroccan_Caliphate",
-        "required": [
-            "Portugal",
-            "Mali",
-            "Gambia",
-            "Morocco",
-            "Algeria",
-            "Panama",
-            "Gibraltar",
-            "Senegal",
-            "Mauritania",
-            "Western Sahara",
-            "Niger",
-            "Venezuela",
-            "Burkina Faso",
-            "Spain"
-        ],
-        "start_nation": [
-            "Morocco"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Ottoman Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Ottoman_Empire",
         "required": [
             "Lebanon",
-            "Syria",
-            "Iraq",
-            "Israel",
-            "Albania",
-            "Jordan",
-            "Montenegro",
-            "Turkey",
-            "Cyprus",
-            "Serbia",
-            "Greece",
             "Macedonia",
+            "Bosnia and Herzegovina",
+            "Israel",
+            "Serbia",
+            "Iraq",
+            "Albania",
+            "Syria",
             "Bulgaria",
-            "Bosnia and Herzegovina"
+            "Turkey",
+            "Montenegro",
+            "Jordan",
+            "Greece",
+            "Cyprus"
         ],
         "start_nation": [
             "Turkey"
         ],
-        "status": "exists",
         "completed": false
     },
-    "Sasanian Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Sasanian_Empire",
+    "Soviet Union": {
+        "URL": "https://ronroblox.fandom.com/wiki/Soviet_Union",
         "required": [
-            "Iraq",
-            "Turkmenistan",
-            "Bahrain",
-            "Kuwait",
+            "Uzbekistan",
+            "Kyrgyzstan",
             "Armenia",
-            "Afghanistan",
+            "Estonia",
+            "Turkmenistan",
+            "Latvia",
+            "Kazakhstan",
             "Azerbaijan",
-            "Iran",
-            "Tajikistan",
-            "Qatar",
-            "Pakistan",
-            "Oman",
-            "Yemen",
-            "United Arab Emirates"
+            "Russia",
+            "Lithuania",
+            "Georgia",
+            "Moldova",
+            "Ukraine",
+            "Belarus",
+            "Tajikistan"
         ],
         "start_nation": [
-            "Iran"
-        ],
-        "status": "planned",
-        "completed": false
-    },
-    "Kingdom of France": {
-        "URL": "https://ronroblox.fandom.com/wiki/Kingdom_of_France",
-        "required": [
-            "French Guiana",
-            "Grenada",
-            "Antigua and Barbuda",
-            "Gambia",
-            "R\u00e9union",
-            "France",
-            "Saint Kitts and Nevis",
-            "Saint Lucia",
-            "Dominica",
-            "Martinique",
-            "Haiti",
-            "Seychelles",
-            "Canada",
-            "Mauritius",
-            "Senegal",
-            "Guadeloupe"
-        ],
-        "start_nation": [
-            "France"
+            "Russia"
         ],
         "status": "planned",
         "completed": false
@@ -2874,181 +2279,151 @@
     "Russian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Russian_Empire",
         "required": [
-            "Finland",
-            "Ukraine",
-            "Turkmenistan",
-            "Kazakhstan",
-            "Lithuania",
-            "Azerbaijan",
             "Uzbekistan",
-            "Russia",
+            "Kyrgyzstan",
+            "Kazakhstan",
+            "Azerbaijan",
+            "Lithuania",
+            "Georgia",
+            "Ukraine",
             "Tajikistan",
             "Armenia",
+            "Finland",
             "Estonia",
+            "Turkmenistan",
             "Latvia",
+            "Russia",
             "Moldova",
-            "Kyrgyzstan",
-            "Belarus",
-            "Georgia"
+            "Belarus"
         ],
         "start_nation": [
             "Russia"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Seljuk Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Seljuk_Empire",
-        "required": [
-            "Lebanon",
-            "Syria",
-            "Iraq",
-            "Turkmenistan",
-            "Israel",
-            "File:1200px-Flag of Kyrgyzstan.svg.png",
-            "Armenia",
-            "Afghanistan",
-            "Azerbaijan",
-            "Iran",
-            "Uzbekistan",
-            "Turkey",
-            "Tajikistan",
-            "Kyrgyzstan",
-            "Oman",
-            "United Arab Emirates"
-        ],
-        "start_nation": [
-            "Turkmenistan"
-        ],
-        "status": "planned",
         "completed": false
     },
     "Intermarium": {
         "URL": "https://ronroblox.fandom.com/wiki/Intermarium",
         "required": [
-            "Finland",
-            "Ukraine",
-            "Croatia",
-            "Poland",
-            "Lithuania",
-            "Serbia",
-            "Macedonia",
-            "Hungary",
-            "Romania",
-            "Slovakia",
             "Slovenia",
-            "Montenegro",
+            "Bosnia and Herzegovina",
+            "Macedonia",
+            "Croatia",
+            "Lithuania",
+            "Ukraine",
+            "Slovakia",
+            "Romania",
+            "Finland",
             "Estonia",
             "Latvia",
-            "Moldova",
             "Czech Republic",
-            "Bosnia and Herzegovina"
+            "Montenegro",
+            "Moldova",
+            "Hungary",
+            "Poland",
+            "Serbia"
         ],
         "start_nation": [
-            "Belarus",
+            "Poland",
             "Ukraine",
-            "Poland"
+            "Belarus"
         ],
-        "status": "exists",
         "completed": false
     },
     "Caribbean Federation": {
         "URL": "https://ronroblox.fandom.com/wiki/Caribbean_Federation",
         "required": [
+            "Jamaica",
+            "Guadeloupe",
+            "Saint Kitts and Nevis",
+            "Turks and Caicos Islands",
+            "Grenada",
             "Curacao",
             "Aruba",
-            "Bahamas",
-            "Grenada",
-            "Antigua and Barbuda",
-            "Saint Vincent and the Grenadines",
             "Cuba",
-            "Saint Kitts and Nevis",
-            "Saint Lucia",
-            "Dominica",
-            "Martinique",
-            "Jamaica",
-            "Barbados",
             "Dominican Republic",
-            "Haiti",
+            "Martinique",
+            "Saint Vincent and the Grenadines",
+            "Barbados",
+            "Saint Lucia",
+            "Antigua and Barbuda",
+            "Dominica",
             "Trinidad and Tobago",
-            "Turks and Caicos Islands",
-            "Guadeloupe"
+            "Haiti",
+            "Bahamas"
         ],
         "start_nation": [
-            "Aruba",
-            "Curacao",
-            "Bahamas",
-            "Grenada",
-            "Antigua and Barbuda",
-            "Saint Vincent and the Grenadines",
-            "Cuba",
-            "Saint Kitts and Nevis",
-            "Saint Lucia",
-            "Dominica",
-            "Martinique",
             "Jamaica",
-            "Barbados",
-            "Dominican Republic",
-            "Haiti",
-            "Trinidad and Tobago",
+            "Guadeloupe",
+            "Saint Kitts and Nevis",
             "Turks and Caicos Islands",
-            "Guadeloupe"
+            "Grenada",
+            "Curacao",
+            "Cuba",
+            "Aruba",
+            "Dominican Republic",
+            "Martinique",
+            "Saint Vincent and the Grenadines",
+            "Barbados",
+            "Saint Lucia",
+            "Antigua and Barbuda",
+            "Dominica",
+            "Trinidad and Tobago",
+            "Haiti",
+            "Bahamas"
         ],
-        "status": "exists",
         "completed": false
     },
     "Macedonian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Macedonian_Empire",
         "required": [
-            "Turkmenistan",
-            "Kuwait",
-            "Uzbekistan",
-            "Cyprus",
-            "Turkey",
-            "Tajikistan",
-            "Greece",
-            "Macedonia",
-            "Bulgaria",
             "Lebanon",
-            "Syria",
-            "Iraq",
-            "Israel",
-            "Afghanistan",
-            "Iran",
-            "Egypt",
+            "Uzbekistan",
+            "Macedonia",
             "Kyrgyzstan",
+            "Iran",
+            "Iraq",
+            "Bulgaria",
+            "Turkey",
+            "Kuwait",
+            "Tajikistan",
+            "Afghanistan",
+            "Egypt",
+            "Israel",
+            "Turkmenistan",
+            "Syria",
+            "Greece",
+            "Libya",
             "Pakistan",
-            "Libya"
+            "Cyprus"
         ],
         "start_nation": [
             "Macedonia",
             "Greece"
         ],
-        "status": "exists",
         "completed": false
     },
     "Persian Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Persian_Empire",
         "required": [
-            "Turkmenistan",
-            "Kuwait",
-            "Jordan",
-            "Azerbaijan",
-            "Uzbekistan",
-            "Cyprus",
-            "Turkey",
-            "Tajikistan",
             "Lebanon",
-            "Syria",
-            "Iraq",
-            "Israel",
-            "Armenia",
-            "Afghanistan",
-            "Iran",
-            "Egypt",
-            "Pakistan",
+            "Uzbekistan",
             "Kyrgyzstan",
-            "Georgia"
+            "Iran",
+            "Iraq",
+            "Azerbaijan",
+            "Georgia",
+            "Turkey",
+            "Kuwait",
+            "Egypt",
+            "Afghanistan",
+            "Tajikistan",
+            "Armenia",
+            "Israel",
+            "Turkmenistan",
+            "Syria",
+            "Jordan",
+            "Pakistan",
+            "Cyprus"
         ],
         "start_nation": [
             "Iran"
@@ -3059,645 +2434,582 @@
     "Arab League": {
         "URL": "https://ronroblox.fandom.com/wiki/Arab_League",
         "required": [
-            "Bahrain",
-            "Kuwait",
-            "Jordan",
-            "Mauritania",
-            "Qatar",
-            "Saudi Arabia",
-            "United Arab Emirates",
-            "Somalia",
-            "Lebanon",
-            "Syria",
-            "Iraq",
-            "Morocco",
-            "Algeria",
-            "Israel",
-            "Comoros",
-            "Tunisia",
-            "Djibouti",
-            "Sudan",
-            "Egypt",
-            "Oman",
             "Yemen",
+            "Bahrain",
+            "Lebanon",
+            "Iraq",
+            "Somalia",
+            "United Arab Emirates",
+            "Sudan",
+            "Kuwait",
+            "Mauritania",
+            "Morocco",
+            "Qatar",
+            "Comoros",
+            "Egypt",
+            "Algeria",
+            "Djibouti",
+            "Israel",
+            "Syria",
+            "Saudi Arabia",
+            "Jordan",
+            "Oman",
+            "Tunisia",
             "Libya"
         ],
         "start_nation": [
-            "Bahrain",
-            "Kuwait",
-            "Jordan",
-            "Mauritania",
-            "Saudi Arabia",
-            "Qatar",
-            "United Arab Emirates",
-            "Somalia",
-            "Lebanon",
-            "Syria",
-            "Iraq",
-            "Algeria",
-            "Comoros",
-            "Tunisia",
-            "Djibouti",
-            "Sudan",
-            "Egypt",
-            "Oman",
             "Yemen",
-            "Libya",
-            "Morocco"
+            "Bahrain",
+            "Lebanon",
+            "Iraq",
+            "Somalia",
+            "United Arab Emirates",
+            "Sudan",
+            "Kuwait",
+            "Mauritania",
+            "Morocco",
+            "Qatar",
+            "Comoros",
+            "Egypt",
+            "Algeria",
+            "Djibouti",
+            "Syria",
+            "Saudi Arabia",
+            "Jordan",
+            "Oman",
+            "Tunisia",
+            "Libya"
         ],
-        "status": "exists",
+        "completed": false
+    },
+    "Spanish Empire": {
+        "URL": "https://ronroblox.fandom.com/wiki/Spanish_Empire",
+        "required": [
+            "Peru",
+            "Mexico",
+            "El Salvador",
+            "Spain",
+            "Philippines",
+            "Panama",
+            "Chile",
+            "Paraguay",
+            "Western Sahara",
+            "Bolivia",
+            "Guam",
+            "Morocco",
+            "Cuba",
+            "Uruguay",
+            "Equatorial Guinea",
+            "Venezuela",
+            "Argentina",
+            "Ecuador",
+            "Colombia",
+            "Guatemala",
+            "Nicaragua",
+            "Honduras",
+            "Costa Rica"
+        ],
+        "start_nation": [
+            "Spain"
+        ],
         "completed": false
     },
     "Islamic Caliphate": {
         "URL": "https://ronroblox.fandom.com/wiki/Islamic_Caliphate",
         "required": [
-            "Bahrain",
-            "Kuwait",
-            "Jordan",
-            "Cyprus",
-            "Turkey",
-            "Saudi Arabia",
-            "Qatar",
-            "Spain",
-            "United Arab Emirates",
-            "Lebanon",
-            "Portugal",
-            "Syria",
-            "Israel",
-            "Iraq",
-            "Algeria",
-            "Afghanistan",
-            "Gibraltar",
-            "Iran",
-            "Egypt",
-            "Pakistan",
-            "Oman",
             "Yemen",
+            "Bahrain",
+            "Lebanon",
+            "Iran",
+            "Spain",
+            "Iraq",
+            "United Arab Emirates",
+            "Turkey",
+            "Kuwait",
+            "Morocco",
+            "Qatar",
+            "Egypt",
+            "Afghanistan",
+            "Algeria",
+            "Portugal",
+            "Israel",
+            "Gibraltar",
+            "Syria",
+            "Saudi Arabia",
+            "Oman",
+            "Jordan",
             "Libya",
-            "Morocco"
+            "Pakistan",
+            "Cyprus"
         ],
         "start_nation": [
-            "Bahrain",
-            "Kuwait",
-            "Jordan",
-            "Turkey",
-            "Saudi Arabia",
-            "Qatar",
-            "United Arab Emirates",
-            "Lebanon",
-            "Syria",
-            "Iraq",
-            "Algeria",
-            "Afghanistan",
-            "Iran",
-            "Egypt",
-            "Pakistan",
-            "Oman",
             "Yemen",
+            "Bahrain",
+            "Lebanon",
+            "Iran",
+            "Iraq",
+            "United Arab Emirates",
+            "Turkey",
+            "Kuwait",
+            "Morocco",
+            "Qatar",
+            "Egypt",
+            "Afghanistan",
+            "Algeria",
+            "Syria",
+            "Saudi Arabia",
+            "Oman",
+            "Jordan",
             "Libya",
-            "Morocco"
+            "Pakistan"
         ],
-        "status": "exists",
         "completed": false
     },
     "Mongol Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Mongol_Empire",
         "required": [
-            "Ukraine",
-            "Turkmenistan",
-            "Kazakhstan",
-            "Macau",
-            "South Korea",
-            "Azerbaijan",
-            "Mongolia",
-            "Uzbekistan",
-            "Turkey",
-            "North Korea",
-            "Tajikistan",
-            "Romania",
-            "Iraq",
-            "Armenia",
             "China",
-            "Afghanistan",
-            "Hong Kong",
-            "Iran",
-            "Moldova",
+            "Uzbekistan",
             "Kyrgyzstan",
-            "Pakistan",
+            "Kazakhstan",
+            "Iran",
+            "Iraq",
+            "Azerbaijan",
             "Georgia",
+            "Turkey",
+            "Hong Kong",
+            "Ukraine",
+            "Tajikistan",
+            "Afghanistan",
+            "Macau",
+            "Romania",
+            "Armenia",
+            "Turkmenistan",
+            "Russia",
+            "South Korea",
+            "Moldova",
             "Belarus",
-            "Russia"
+            "Mongolia",
+            "North Korea",
+            "Pakistan"
         ],
         "start_nation": [
             "Mongolia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Alam Melayu": {
         "URL": "https://ronroblox.fandom.com/wiki/Alam_Melayu",
         "required": [
-            "Timor-Leste",
-            "Tonga",
-            "Guam",
-            "New Zealand",
-            "American Samoa",
-            "Vietnam",
-            "Indonesia",
-            "Philippines",
-            "Palau",
-            "Fiji",
-            "Brunei",
-            "Solomon Islands",
-            "Kiribati",
-            "Samoa",
-            "Madagascar",
-            "Papua New Guinea",
-            "Marshall Islands",
-            "French Polynesia",
-            "Cambodia",
-            "Sri Lanka",
-            "Thailand",
             "Malaysia",
-            "Vanuatu",
-            "New Caledonia",
-            "Cook Islands",
+            "Tonga",
+            "Singapore",
+            "Philippines",
             "Taiwan",
-            "Singapore"
+            "Guam",
+            "Vanuatu",
+            "Cambodia",
+            "Timor-Leste",
+            "Indonesia",
+            "Kiribati",
+            "Papua New Guinea",
+            "Sri Lanka",
+            "Samoa",
+            "Solomon Islands",
+            "Marshall Islands",
+            "Vietnam",
+            "Cook Islands",
+            "Palau",
+            "Madagascar",
+            "Brunei",
+            "American Samoa",
+            "New Zealand",
+            "New Caledonia",
+            "French Polynesia",
+            "Thailand",
+            "Fiji"
         ],
         "start_nation": [
-            "Timor-Leste",
+            "Malaysia",
+            "Singapore",
             "Tonga",
-            "Guam",
-            "American Samoa",
-            "Indonesia",
             "Philippines",
-            "Palau",
-            "Fiji",
-            "Brunei",
-            "Solomon Islands",
+            "Guam",
+            "Vanuatu",
+            "Timor-Leste",
+            "Indonesia",
             "Kiribati",
             "Samoa",
-            "Madagascar",
+            "Solomon Islands",
             "Marshall Islands",
-            "French Polynesia",
-            "Malaysia",
-            "Vanuatu",
-            "New Caledonia",
             "Cook Islands",
-            "Singapore"
+            "Palau",
+            "Madagascar",
+            "Brunei",
+            "American Samoa",
+            "New Caledonia",
+            "French Polynesia",
+            "Fiji"
         ],
-        "status": "exists",
-        "completed": false
-    },
-    "Golden Circle": {
-        "URL": "https://ronroblox.fandom.com/wiki/Golden_Circle",
-        "required": [
-            "Curacao",
-            "Aruba",
-            "Bahamas",
-            "Antigua and Barbuda",
-            "Saint Vincent and the Grenadines",
-            "Guatemala",
-            "Belize",
-            "Panama",
-            "Saint Kitts and Nevis",
-            "Cuba",
-            "Texas",
-            "Saint Lucia",
-            "Dominica",
-            "Nicaragua",
-            "Jamaica",
-            "Barbados",
-            "Dominican Republic",
-            "Haiti",
-            "Confederate States of America",
-            "Trinidad and Tobago",
-            "Guadeloupe",
-            "Turks and Caicos Islands",
-            "El Salvador",
-            "Puerto Rico",
-            "Colombia",
-            "Venezuela",
-            "Costa Rica",
-            "Mexico",
-            "Honduras"
-        ],
-        "start_nation": [
-            "Confederate States of America"
-        ],
-        "status": "exists",
         "completed": false
     },
     "French Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/French_Empire",
         "required": [
-            "Mali",
-            "France",
-            "Sao Tome and Principe",
-            "Cameroon",
-            "Central African Republic",
-            "Mauritania",
-            "Gabon",
-            "Burkina Faso",
             "Lebanon",
-            "Chad",
-            "Syria",
-            "Laos",
-            "Comoros",
-            "Mauritius",
-            "Djibouti",
-            "Senegal",
-            "Niger",
-            "Cote d'Ivoire",
-            "Togo",
+            "Cambodia",
+            "Vanuatu",
+            "Morocco",
+            "Burkina Faso",
             "Reunion",
-            "Vietnam",
+            "Mali",
+            "Niger",
+            "Benin",
+            "Algeria",
+            "Cameroon",
+            "Djibouti",
+            "Seychelles",
+            "Mauritius",
+            "Syria",
+            "Senegal",
+            "New Caledonia",
+            "Sao Tome and Principe",
+            "Cote d'Ivoire",
             "Mayotte",
+            "Mauritania",
+            "Central African Republic",
+            "Comoros",
+            "Laos",
+            "Togo",
+            "Vietnam",
+            "France",
             "Madagascar",
             "Guinea",
-            "Benin",
-            "French Polynesia",
-            "Seychelles",
-            "Cambodia",
-            "Algeria",
-            "Tunisia",
-            "Vanuatu",
-            "New Caledonia",
-            "Morocco"
-        ],
-        "start_nation": [
-            "France"
-        ],
-        "status": "exists",
-        "completed": false
-    },
-    "Napoleonic Empire": {
-        "URL": "https://ronroblox.fandom.com/wiki/Napoleonic_Empire",
-        "required": [
-            "Curacao",
-            "Aruba",
-            "Gambia",
-            "Indonesia",
-            "France",
-            "Kuwait",
-            "Sao Tome and Principe",
-            "Palau",
-            "Saint Kitts and Nevis",
-            "Mauritania",
             "Gabon",
-            "Haiti",
-            "Sri Lanka",
-            "South Africa",
-            "Netherlands",
-            "Italy",
-            "Mauritius",
-            "Andorra",
-            "Senegal",
-            "Suriname",
-            "Reunion",
-            "French Guiana",
-            "Croatia",
-            "Luxembourg",
-            "Panama",
-            "Martinique",
-            "Catalonia",
-            "Maldives",
-            "Guinea",
-            "Benin",
-            "Dominican Republic",
-            "Seychelles",
-            "Belgium",
-            "Slovenia",
-            "Guyana",
-            "Monaco",
-            "New Caledonia",
-            "Guadeloupe"
+            "Chad",
+            "Tunisia",
+            "French Polynesia"
         ],
         "start_nation": [
             "France"
         ],
-        "status": "planned",
         "completed": false
     },
     "European Union": {
         "URL": "https://ronroblox.fandom.com/wiki/European_Union",
         "required": [
-            "Finland",
-            "France",
-            "Switzerland",
-            "Cyprus",
-            "Serbia",
-            "Greece",
-            "Denmark",
-            "Macedonia",
-            "San Marino",
-            "Hungary",
-            "Romania",
-            "Portugal",
-            "Netherlands",
-            "Italy",
-            "Andorra",
-            "Austria",
-            "Sweden",
-            "Latvia",
-            "Bosnia and Herzegovina",
-            "Ukraine",
-            "Croatia",
-            "Poland",
-            "Luxembourg",
-            "Albania",
-            "Ireland",
-            "Lithuania",
-            "Spain",
-            "Bulgaria",
-            "Slovakia",
-            "Belgium",
-            "Montenegro",
-            "Malta",
-            "Monaco",
-            "Estonia",
-            "Norway",
             "Liechtenstein",
-            "Germany",
+            "Bosnia and Herzegovina",
+            "San Marino",
+            "Italy",
+            "Bulgaria",
+            "Ireland",
+            "Portugal",
+            "Estonia",
+            "Montenegro",
             "Moldova",
+            "Hungary",
+            "Greece",
+            "Poland",
+            "Sweden",
+            "Macedonia",
+            "Spain",
+            "Croatia",
+            "Netherlands",
+            "Austria",
+            "Lithuania",
+            "Belgium",
+            "Monaco",
+            "Andorra",
+            "Ukraine",
+            "Slovakia",
+            "Malta",
+            "Germany",
+            "Norway",
+            "Romania",
+            "Finland",
+            "Luxembourg",
+            "France",
+            "Latvia",
+            "Czech Republic",
+            "Albania",
+            "Denmark",
+            "Switzerland",
             "Belarus",
-            "Czech Republic"
+            "Cyprus",
+            "Serbia"
         ],
         "start_nation": [
-            "Finland",
-            "France",
-            "Switzerland",
-            "Cyprus",
-            "Serbia",
-            "Greece",
-            "Denmark",
-            "Macedonia",
-            "San Marino",
-            "Hungary",
-            "Romania",
-            "Portugal",
-            "Netherlands",
-            "Italy",
-            "Andorra",
-            "Austria",
-            "Sweden",
-            "Latvia",
-            "Bosnia and Herzegovina",
-            "Ukraine",
-            "Croatia",
-            "Poland",
-            "Luxembourg",
-            "Albania",
-            "Ireland",
-            "Lithuania",
-            "Spain",
-            "Bulgaria",
-            "Slovakia",
-            "Belgium",
-            "Montenegro",
-            "Malta",
-            "Monaco",
-            "Estonia",
-            "Norway",
             "Liechtenstein",
-            "Germany",
+            "Bosnia and Herzegovina",
+            "San Marino",
+            "Italy",
+            "Bulgaria",
+            "Ireland",
+            "Portugal",
+            "Estonia",
+            "Montenegro",
             "Moldova",
+            "Hungary",
+            "Greece",
+            "Poland",
+            "Sweden",
+            "Macedonia",
+            "Spain",
+            "Croatia",
+            "Netherlands",
+            "Austria",
+            "Lithuania",
+            "Belgium",
+            "Monaco",
+            "Andorra",
+            "Ukraine",
+            "Slovakia",
+            "Malta",
+            "Germany",
+            "Norway",
+            "Romania",
+            "Finland",
+            "Luxembourg",
+            "France",
+            "Latvia",
+            "Czech Republic",
+            "Albania",
+            "Denmark",
+            "Switzerland",
             "Belarus",
-            "Czech Republic"
+            "Cyprus",
+            "Serbia"
         ],
-        "status": "exists",
         "completed": false
     },
     "Roman Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/Roman_Empire",
         "required": [
-            "France",
-            "Kuwait",
-            "Switzerland",
-            "Azerbaijan",
-            "Cyprus",
-            "Serbia",
-            "United Kingdom",
-            "Greece",
-            "Macedonia",
-            "San Marino",
-            "Romania",
+            "Slovenia",
+            "Liechtenstein",
             "Lebanon",
+            "United Kingdom",
+            "Bosnia and Herzegovina",
+            "Azerbaijan",
+            "San Marino",
+            "Italy",
+            "Bulgaria",
+            "Morocco",
+            "Egypt",
+            "Algeria",
             "Portugal",
             "Syria",
-            "Morocco",
-            "Israel",
-            "Armenia",
-            "Italy",
-            "Andorra",
-            "Austria",
-            "Egypt",
-            "Georgia",
-            "Libya",
-            "Bosnia and Herzegovina",
-            "Croatia",
-            "Luxembourg",
-            "Albania",
-            "Jordan",
-            "Turkey",
-            "Spain",
-            "Bulgaria",
-            "Iraq",
-            "Algeria",
-            "Tunisia",
-            "Slovenia",
-            "Belgium",
             "Montenegro",
-            "Malta",
+            "Greece",
+            "Macedonia",
+            "Spain",
+            "Croatia",
+            "Iraq",
+            "Austria",
+            "Belgium",
             "Monaco",
-            "Liechtenstein",
-            "Gibraltar"
+            "Andorra",
+            "Georgia",
+            "Turkey",
+            "Kuwait",
+            "Malta",
+            "Romania",
+            "Armenia",
+            "Israel",
+            "Luxembourg",
+            "France",
+            "Albania",
+            "Gibraltar",
+            "Switzerland",
+            "Jordan",
+            "Tunisia",
+            "Libya",
+            "Cyprus",
+            "Serbia"
         ],
         "start_nation": [
             "Italy"
         ],
-        "status": "exists",
         "completed": false
     },
     "African Union": {
         "URL": "https://ronroblox.fandom.com/wiki/African_Union",
         "required": [
-            "Ghana",
-            "Mali",
-            "Ethiopia",
-            "Gambia",
-            "Eswatini",
-            "Uganda",
-            "Sao Tome and Principe",
-            "Zambia",
-            "Cameroon",
-            "Democratic Republic of the Congo",
             "Lesotho",
+            "Zambia",
+            "Eritrea",
+            "Republic of Congo",
+            "Angola",
+            "Ghana",
+            "Somalia",
+            "Rwanda",
+            "Burundi",
+            "Guinea-Bissau",
+            "Morocco",
+            "South Sudan",
+            "Burkina Faso",
+            "Democratic Republic of the Congo",
+            "Mali",
+            "Egypt",
+            "Niger",
+            "Uganda",
+            "Benin",
+            "Gambia",
+            "Cameroon",
+            "Algeria",
+            "Djibouti",
+            "Seychelles",
+            "Eswatini",
+            "Cabo Verde",
+            "Mauritius",
+            "Senegal",
+            "Kenya",
+            "Botswana",
+            "Sao Tome and Principe",
+            "Zimbabwe",
+            "Malawi",
+            "Cote d'Ivoire",
             "Liberia",
+            "Sudan",
+            "Tanzania",
+            "Sierra Leone",
             "Mauritania",
             "Central African Republic",
-            "Namibia",
-            "Nigeria",
-            "Gabon",
-            "Burkina Faso",
-            "Mozambique",
-            "Somalia",
-            "Chad",
-            "South Sudan",
-            "Morocco",
-            "South Africa",
             "Comoros",
-            "Republic of Congo",
-            "Guinea-Bissau",
-            "Mauritius",
-            "Djibouti",
-            "Senegal",
-            "Niger",
-            "Sudan",
-            "Malawi",
-            "Egypt",
-            "Cabo Verde",
-            "Angola",
-            "Cote d'Ivoire",
-            "Togo",
             "Equatorial Guinea",
-            "Libya",
-            "Botswana",
-            "Sierra Leone",
-            "Burundi",
-            "Eritrea",
-            "Kenya",
+            "Mozambique",
+            "Togo",
             "Madagascar",
+            "Namibia",
             "Guinea",
-            "Benin",
-            "Rwanda",
-            "Seychelles",
-            "Zimbabwe",
-            "Algeria",
+            "Gabon",
+            "South Africa",
+            "Ethiopia",
             "Tunisia",
-            "Tanzania"
+            "Chad",
+            "Libya",
+            "Nigeria"
         ],
         "start_nation": [
-            "Ghana",
-            "Mali",
-            "Ethiopia",
-            "Gambia",
-            "Eswatini",
-            "Uganda",
-            "Sao Tome and Principe",
-            "Zambia",
-            "Cameroon",
-            "Democratic Republic of the Congo",
             "Lesotho",
+            "Zambia",
+            "Eritrea",
+            "Republic of Congo",
+            "Angola",
+            "Ghana",
+            "Somalia",
+            "Rwanda",
+            "Burundi",
+            "Guinea-Bissau",
+            "Morocco",
+            "South Sudan",
+            "Burkina Faso",
+            "Democratic Republic of the Congo",
+            "Mali",
+            "Egypt",
+            "Niger",
+            "Uganda",
+            "Benin",
+            "Gambia",
+            "Cameroon",
+            "Algeria",
+            "Djibouti",
+            "Seychelles",
+            "Eswatini",
+            "Cabo Verde",
+            "Mauritius",
+            "Senegal",
+            "Kenya",
+            "Botswana",
+            "Sao Tome and Principe",
+            "Zimbabwe",
+            "Malawi",
+            "Cote d'Ivoire",
             "Liberia",
+            "Sudan",
+            "Tanzania",
+            "Sierra Leone",
             "Mauritania",
             "Central African Republic",
-            "Namibia",
-            "Nigeria",
-            "Gabon",
-            "Burkina Faso",
-            "Mozambique",
-            "Somalia",
-            "Chad",
-            "South Sudan",
-            "South Africa",
             "Comoros",
-            "Republic of Congo",
-            "Guinea-Bissau",
-            "Mauritius",
-            "Djibouti",
-            "Senegal",
-            "Niger",
-            "Sudan",
-            "Malawi",
-            "Egypt",
-            "Cabo Verde",
-            "Angola",
-            "Cote d'Ivoire",
-            "Togo",
             "Equatorial Guinea",
-            "Libya",
-            "Botswana",
-            "Sierra Leone",
-            "Burundi",
-            "Eritrea",
-            "Kenya",
+            "Mozambique",
+            "Togo",
             "Madagascar",
+            "Namibia",
             "Guinea",
-            "Benin",
-            "Rwanda",
-            "Seychelles",
-            "Zimbabwe",
-            "Algeria",
+            "Gabon",
+            "South Africa",
+            "Ethiopia",
             "Tunisia",
-            "Tanzania",
-            "Morocco"
+            "Chad",
+            "Libya",
+            "Nigeria"
         ],
-        "status": "exists",
         "completed": false
     },
     "British Empire": {
         "URL": "https://ronroblox.fandom.com/wiki/British_Empire",
         "required": [
-            "Ghana",
-            "Bahamas",
-            "Tonga",
-            "Gambia",
-            "Uganda",
-            "Kuwait",
-            "Cameroon",
-            "Fiji",
-            "Brunei",
-            "Cyprus",
-            "Namibia",
-            "Solomon Islands",
-            "Nigeria",
-            "United Kingdom",
+            "Canada",
+            "Malaysia",
             "Jamaica",
-            "United Arab Emirates",
-            "Barbados",
+            "United Kingdom",
+            "Tonga",
+            "Ghana",
+            "Turks and Caicos Islands",
+            "Australia",
             "Somalia",
+            "United Arab Emirates",
+            "Bermuda",
+            "Hong Kong",
             "South Sudan",
-            "Sri Lanka",
-            "Israel",
-            "South Africa",
-            "Mauritius",
-            "Sudan",
-            "Malawi",
+            "Papua New Guinea",
             "Egypt",
-            "Cook Islands",
+            "Uganda",
+            "Gambia",
+            "Cameroon",
+            "Sri Lanka",
+            "Ireland",
+            "Seychelles",
+            "Mauritius",
+            "Brunei",
+            "Kenya",
+            "New Zealand",
+            "Botswana",
             "Burma",
             "Yemen",
-            "Bangladesh",
-            "Botswana",
-            "Sierra Leone",
-            "New Zealand",
-            "Ireland",
-            "Jordan",
-            "Isle of Man",
-            "Maldives",
-            "India",
-            "Kenya",
-            "Samoa",
-            "Papua New Guinea",
-            "Iraq",
-            "Seychelles",
-            "Australia",
-            "Zimbabwe",
-            "Trinidad and Tobago",
-            "Canada",
-            "Bermuda",
-            "Turks and Caicos Islands",
-            "Guyana",
-            "Malta",
-            "Malaysia",
-            "Tanzania",
-            "Hong Kong",
-            "Pakistan",
-            "Oman",
             "Singapore",
-            "Gibraltar"
+            "Isle of Man",
+            "Malawi",
+            "Zimbabwe",
+            "Bangladesh",
+            "Iraq",
+            "Sudan",
+            "Tanzania",
+            "Maldives",
+            "Sierra Leone",
+            "Kuwait",
+            "Malta",
+            "Samoa",
+            "Barbados",
+            "Israel",
+            "Solomon Islands",
+            "Guyana",
+            "Trinidad and Tobago",
+            "Cook Islands",
+            "Gibraltar",
+            "Namibia",
+            "Bahamas",
+            "South Africa",
+            "Jordan",
+            "Oman",
+            "India",
+            "Pakistan",
+            "Fiji",
+            "Nigeria",
+            "Cyprus"
         ],
         "start_nation": [
             "United Kingdom"
